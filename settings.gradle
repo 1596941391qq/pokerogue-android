@@ -1,0 +1,7 @@
+pluginManagement {
+
+}
+
+
+rootProject.name = "HelloWorld"
+include ':app'
