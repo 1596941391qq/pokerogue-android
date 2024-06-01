@@ -3,6 +3,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.DownloadManager;
+
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -17,9 +18,11 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import android.os.Environment;
 import android.provider.Settings;
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.webkit.DownloadListener;
+import android.webkit.URLUtil;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
@@ -30,7 +33,16 @@ import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 import android.Manifest;
+
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.HttpURLConnection;
+import java.net.ProtocolException;
+import java.net.URL;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -41,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
     private final int FILECHOOSER_RESULTCODE=1;
 
     private WebView webView;
+
     @SuppressLint("SetJavaScriptEnabled")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,11 +70,13 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
         webView = new WebView(this);
+        webView.clearCache(true);
         FrameLayout myFrameLayout = findViewById(R.id.my_frame_layout);
         myFrameLayout.addView(webView);//动态加载
 
         //设置webview
         setWebViewSetting();
+        webView.addJavascriptInterface(new DownloadBlobFileJSInterface(this), "Android");
 
 
 
@@ -97,13 +112,37 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
+
+        webView.setDownloadListener(new DownloadListener() {
+
+            //处理下载事件
+            @Override
+            public void onDownloadStart(String url, String userAgent, String contentDisposition, String mimetype, long contentLength) {
+                if (TextUtils.isEmpty(url)) {
+                    return;
+                }
+                if (url.startsWith("blob")) {
+                    String fileName = URLUtil.guessFileName(url, contentDisposition, mimetype);
+                    Log.d("download", "filename：" + fileName);
+                    // 3. 执行JS
+                    webView.loadUrl(DownloadBlobFileJSInterface.getBase64StringFromBlobUrl(url, mimetype, fileName));
+
+                }
+
+
+            }
+        });
+
         webView.setWebViewClient(new WebViewClient(){
             @Override
-            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+            public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
 
 
-                   return false;
+                return super.shouldOverrideUrlLoading(view, request);
             }
+
+
+
 
             @Override
             public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
@@ -143,8 +182,9 @@ public class MainActivity extends AppCompatActivity {
             super.onActivityResult(requestCode, resultCode, data);
             return;
         }
-
         Uri uri = data.getData();
+
+
         // Check that the response is a good one
         if (resultCode == Activity.RESULT_OK&&data != null) {
 
@@ -169,7 +209,7 @@ public class MainActivity extends AppCompatActivity {
                 | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY;
         decorView.setSystemUiVisibility(uiOptions);
     }
-   
+
     private void setWebViewSetting(){
         WebSettings webSettings = webView.getSettings();
         //WebView.setWebContentsDebuggingEnabled(true);
@@ -180,7 +220,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setAllowUniversalAccessFromFileURLs(true);// 允许从文件URL访问所有URL
         webSettings.setMixedContentMode(WebSettings.MIXED_CONTENT_ALWAYS_ALLOW);  // 允许从HTTPS加载HTTP资源
         webSettings.setDatabaseEnabled(true);// 启用数据库存储，允许网页使用数据库
-
+        webSettings.setAllowFileAccessFromFileURLs(true);
         webSettings.setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK); // 设置缓存模式为首先尝试加载缓存数据，如果失败再从网络加载m
         webView.setLayerType(View.LAYER_TYPE_HARDWARE, null);
 
@@ -321,5 +361,14 @@ public class MainActivity extends AppCompatActivity {
 // 创建并显示对话框
         builder.create().show();
     }
+
+
+
+
+
+
+
+
+
 
 }

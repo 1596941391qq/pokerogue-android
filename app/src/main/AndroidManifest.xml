@@ -3,7 +3,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:targetSandboxVersion="1"
     >
+    <queries>
+        <intent>
+            <!--检查是否有可用浏览器-->
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="http" />
+        </intent>
 
+        <intent>
+            <!--在自定义标签页中打开网址-->
+            <action android:name="android.support.customtabs.action.CustomTabsService" />
+        </intent>
+    </queries>
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -18,6 +31,8 @@
         tools:ignore="ScopedStorage" />
 
     <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -30,6 +45,7 @@
         android:networkSecurityConfig="@xml/network_security_config"
         android:hardwareAccelerated="true"
         android:requestLegacyExternalStorage="true"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <provider
             android:name="androidx.core.content.FileProvider"
@@ -46,16 +62,20 @@
         <meta-data
             android:name="install_notes"
             android:value="注意：此安装包由黑咖啡和冰月亮打包，全程没有收费环节，小心受骗" />
+        <meta-data
+            android:name="android.webkit.WebView.EnableSafeBrowsing"
+            android:value="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
             >
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

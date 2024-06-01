@@ -11,15 +11,20 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
+import java.net.HttpURLConnection;
 import java.net.URI;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import android.content.Context;
 import android.content.res.AssetManager;
+import android.os.Environment;
 import android.util.Log;
 
 public class CanvasGameServer extends NanoHTTPD {
@@ -37,6 +42,7 @@ public class CanvasGameServer extends NanoHTTPD {
     @Override
     public Response serve(IHTTPSession session) throws IOException {
         String uri = session.getUri();
+
         // 将请求的 URI 转换为 assets 文件夹中的路径
         String path = uri.contains("?") ? uri.split("\\?")[0] : uri;
 
@@ -157,6 +163,9 @@ public class CanvasGameServer extends NanoHTTPD {
         }
         else if (ext.equals(".xml")) { // XML 文件
             mimeType = "application/xml"; // 或 "text/xml"
+        }
+        else if (ext.equals(".prsv")) { // prsv 文件
+            mimeType = "text/json"; // 或 "text/json"
         }
         return mimeType;
     }
