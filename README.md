@@ -2,7 +2,7 @@
  * @Author: nzgw
  * @Date: 2024-06-01 02:00:03
  * @LastEditors: nzgw
- * @LastEditTime: 2024-06-02 15:57:26
+ * @LastEditTime: 2024-06-02 15:59:58
  * @FilePath: \HelloWorld\README.md
  * @Description:
  *
@@ -33,8 +33,8 @@
 
 ### 群友反馈
 
-![DX_31F_ZM_YXC9ZU2WS3TX5.png](https://s2.loli.net/2024/06/02/fOwC29NYQ81rVvy.png 320x570)
+![DX_31F_ZM_YXC9ZU2WS3TX5.png](https://s2.loli.net/2024/06/02/fOwC29NYQ81rVvy.png =320x570)
 
 #### 打赏链接
 
-![zf.jpg](https://s2.loli.net/2024/06/02/dH5gmwYtMaKBrWO.jpg 300x300)
+![zf.jpg](https://s2.loli.net/2024/06/02/dH5gmwYtMaKBrWO.jpg =300×300)
