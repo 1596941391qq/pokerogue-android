@@ -2,23 +2,38 @@
  * @Author: nzgw
  * @Date: 2024-06-01 02:00:03
  * @LastEditors: nzgw
- * @LastEditTime: 2024-06-02 16:14:52
+ * @LastEditTime: 2024-06-07 13:55:05
  * @FilePath: \HelloWorld\README.md
  * @Description:
  *
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
 -->
 
-## 宝可梦肉鸽的安卓打包(b 站黑咖啡和冰月亮)
+## Pokémon Rougue's Android Packaging(b 站黑咖啡和冰月亮)
 
-#### apk 直接安装可玩
+[中文](#apk直接安装可玩)
+
+APK Direct Installation for Play
+Download the newly packaged version in the release section for direct installation and play without the need to log in.
+Compatibility Note: Playable on Android 11 and above or 7 and below; for other versions, please refer to the feedback from the group friends below.
+
+Continuous Updates, Synchronized with the Official Website
+Maybe updated once a week.
+
+Support for Import and Export
+You can freely import new versions.
+
+Inherit Previous Save Data
+After each installation, the previous save data will be inherited.
+
+#### apk直接安装可玩
 
 在 release 里面下载新打包的版本，安装即玩无需登录
 兼容性说明：安卓11及以上或7及以下可玩，其他版本请看下方群友反馈
 
 #### 持续更新，与官网同步
 
-也许是三天更新一次
+也许是一周更新一次
 
 #### 支持导入导出
 
