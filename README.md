@@ -11,9 +11,9 @@
 
 ## Pokémon Rougue's Android Packaging(b 站黑咖啡和冰月亮)
 
-##### is Updated 2024/6/14 version
+##### is Updated 2024/6/25 version
 
-##### 已更新到 2024/6/14版本
+##### 已更新到 2024/6/25版本
 
 [中文](#apk直接安装可玩)
 
