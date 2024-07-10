@@ -331,7 +331,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setTitle("选择屏幕方向");
 
 // 设置对话框内容
-        builder.setMessage("您希望锁定屏幕方向为横屏还是竖屏？");
+        builder.setMessage("本apk由B站up主黑咖啡和冰月亮免费提供，禁止倒卖,\n您希望锁定屏幕方向为横屏还是竖屏？");
 
 // 为横屏选项设置监听器
         builder.setPositiveButton("横屏", new DialogInterface.OnClickListener() {
