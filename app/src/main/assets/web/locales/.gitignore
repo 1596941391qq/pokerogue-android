@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+typedoc
+.vscode
+**/.DS_Store
+.idea

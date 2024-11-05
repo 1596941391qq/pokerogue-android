@@ -1,0 +1,14 @@
+{
+  "pound": {
+    "name": "Colpejar",
+    "effect": "Colpeja l'objectiu amb les extremitats, la cua, o alguna part similar."
+  },
+  "uproar": {
+    "name": "Rebombori",
+    "effect": "Ataca durant tres torns amb un rebombori que no deixa que ningú s'adormeixi."
+  },
+  "chatter": {
+    "name": "Xerrar",
+    "effect": "Ataca l'objectiu amb les ones sonores d'un xivarri eixordador. Això confon l'objectiu."
+  }
+}

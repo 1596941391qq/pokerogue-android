@@ -1,0 +1,9 @@
+{
+  "start": "スタート",
+  "luckIndicator": "運：",
+  "shinyOnHover": "色違い",
+  "commonShiny": "ふつう",
+  "rareShiny": "レア",
+  "epicShiny": "超レア",
+  "money": "{{amount, number}}円"
+}
