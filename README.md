@@ -1,19 +1,8 @@
-<!--
- * @Author: nzgw
- * @Date: 2024-06-01 02:00:03
- * @LastEditors: nzgw
- * @LastEditTime: 2024-06-07 14:02:56
- * @FilePath: \HelloWorld\README.md
- * @Description:
- *
- * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
--->
-
 ## Pokémon Rougue's Android Packaging(b 站黑咖啡和冰月亮)
 
-##### is Updated 2024/9/5 version
+##### is Updated 2024/11/26 version
 
-##### 已更新到 2024/9/5版本
+##### 宝可梦肉鸽安卓版已更新到 2024/11/26版本
 
 [中文](#apk直接安装可玩)
 
@@ -37,11 +26,11 @@ After each installation, the previous save data will be inherited.
 
 #### 持续更新，与官网同步
 
-也许是一周更新一次
+也许是一个月更新一次
 
 #### 支持导入导出
 
-可以随意导入新的版本
+可以随意导入新的版本，从zarchiver读档能基本稳定不崩
 
 #### 继承之前存档
 
