@@ -1,0 +1,31 @@
+{
+  "intro": "Una operaria atareada te hace señas.",
+  "speaker": "Operaria",
+  "intro_dialogue": "¡Pareces alguien con muchos Pokémon capaces!$¡Podemos pagarte si nos ayudas con un trabajo a tiempo parcial!",
+  "title": "Trabajador a Tiempo Parcial",
+  "description": "Parece que hay mucho por hacer. Dependiendo de lo bien que se adapte tu Pokémon a una tarea, podría ganar más o menos dinero.",
+  "query": "¿Qué trabajo escogerás?",
+  "invalid_selection": "Los Pokémon deben estar lo suficientemente saludables.",
+  "option": {
+    "1": {
+      "label": "Hacer Entregas",
+      "tooltip": "(-) Tu Pokémon usa su velocidad\n(+) Obtén @[MONEY]{Dinero}",
+      "selected": "Tu {{selectedPokemon}} trabaja entregando pedidos a los clientes."
+    },
+    "2": {
+      "label": "Trabajo de Almacén",
+      "tooltip": "(-) Tu Pokémon usa su fuerza y resistencia\n(+) Obtén @[MONEY]{Dinero}",
+      "selected": "Tu {{selectedPokemon}} trabaja moviendo objetos en el almacén."
+    },
+    "3": {
+      "label": "Asistente de Ventas",
+      "tooltip": "(-) Tu {{option3PrimaryName}} usa {{option3PrimaryMove}\n(+) Obtén @[MONEY]{Dinero}",
+      "disabled_tooltip": "Tu Pokémon necesita conocer ciertos movimientos para este trabajo",
+      "selected": "¡Tu {{option3PrimaryName}} pasa el día usando {{option3PrimaryMove}} para atraer clientes!"
+    }
+  },
+  "job_complete_good": "¡Gracias por la ayuda!\n¡Tu {{selectedPokemon}} fue increíblemente útil!$Aquí tienes tu cheque del día.",
+  "job_complete_bad": "¡Tu {{selectedPokemon}} nos ayudó un poco!$Aquí tienes tu cheque del día.",
+  "pokemon_tired": "¡Tu {{selectedPokemon}} está agotado!\n¡Los PP de todos sus movimientos se redujeron a 2!",
+  "outro": "¡Vuelve y ayúdanos de nuevo algún dia!"
+}

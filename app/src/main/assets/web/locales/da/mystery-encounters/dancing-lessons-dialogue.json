@@ -1,0 +1,26 @@
+{
+  "intro": "En {{oricorioName}} danser trist alene, uden en partner",
+  "title": "Danse Lektioner",
+  "description": "{{oricorioName}} virker ikke aggressiv. Hvis noget, så virker den trist.\n\nMåske den bare vil have nogen at danse med...",
+  "query": "Hvad vil du gøre?",
+  "option": {
+    "1": {
+      "label": "Kæmp imod den",
+      "tooltip": "(-) En hård kamp\n(+) Få en Baton",
+      "boss_enraged": "{{oricorioName}}s frygt boostede dens stats!"
+    },
+    "2": {
+      "label": "Lær dens dans",
+      "tooltip": "(+) Lær Revelation Dance til en af dine Pokémon",
+      "selected": "Du ser på imens {{oricorioName}} udøver sin dans...$@s{level_up_fanfare}Din {{selectedPokemon}} lærte af {{oricorioName}}!"
+    },
+    "3": {
+      "label": "Vis den en dans",
+      "tooltip": "(-) Lær {{oricorioName}} et danse angreb\n(+) {{oricorioName}} vil syntes om dig",
+      "disabled_tooltip": "Din Pokémon skal kende et danse angreb for at du kan gøre dette.",
+      "select_prompt": "Vælg et danse angreb at bruge.",
+      "selected": "{{oricorioName}} ser fascineret på imens {{selectedPokemon}} viser {{selectedMove}}!$Den elsker fremvisningen!$@s{level_up_fanfare}{{oricorioName}} vil gerne rejse med dig!"
+    }
+  },
+  "invalid_selection": "Denne Pokémon kender ikke et danse angreb"
+}

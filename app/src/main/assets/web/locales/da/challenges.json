@@ -1,0 +1,22 @@
+{
+  "freshStart": {
+    "value.0": "Fra",
+    "value.1": "Til"
+  },
+  "inverseBattle": {
+    "value.0": "Fra",
+    "value.1": "Til"
+  },
+  "noAutoHeal": {
+    "value.0": "Fra",
+    "value.1": "Til"
+  },
+  "hardcore": {
+    "value.0": "Fra",
+    "value.1": "Til"
+  },
+  "limitedCatch": {
+    "value.0": "Fra",
+    "value.1": "Til"
+  }
+}

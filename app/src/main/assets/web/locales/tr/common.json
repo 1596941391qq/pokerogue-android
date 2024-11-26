@@ -1,0 +1,9 @@
+{
+  "start": "Başla",
+  "luckIndicator": "Şans:",
+  "shinyOnHover": "Parlak",
+  "commonShiny": "Yaygın",
+  "rareShiny": "Nadir",
+  "epicShiny": "Epik",
+  "money": "₽{{amount, number}}"
+}

@@ -1,0 +1,8 @@
+{
+  "pp": "PP",
+  "power": "חוזק",
+  "accuracy": "דיוק",
+  "abilityFlyInText": "ניכולת של {{pokemonName}}:¶ {{passive}}{{abilityName}}",
+  "passive": "יכולת פסיבית ",
+  "teraHover": "טראסטאל סוג {{type}}"
+}

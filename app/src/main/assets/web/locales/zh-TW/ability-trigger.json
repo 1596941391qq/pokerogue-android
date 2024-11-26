@@ -8,6 +8,7 @@
   "trace": "{{pokemonName}}複制了{{targetName}}的\n{{abilityName}}！",
   "windPowerCharged": "受{{moveName}}的影響，{{pokemonName}}提升了能力！",
   "quickDraw":"因爲速擊效果發動，\n{{pokemonName}}比平常出招更快了！",
+  "illusionBreak": "{{pokemonName}}造成的\n幻覺解除了！",
   "disguiseAvoidedDamage": "{{pokemonNameWithAffix}}的畫皮脫落了！",
   "blockItemTheft": "{{pokemonNameWithAffix}}的{{abilityName}}\n阻止了對方奪取道具！",
   "typeImmunityHeal": "{{pokemonNameWithAffix}}因{{abilityName}}\n回複了少許HP！",

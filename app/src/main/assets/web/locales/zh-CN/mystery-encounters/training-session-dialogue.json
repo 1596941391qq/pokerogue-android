@@ -3,7 +3,7 @@
   "title": "集训",
   "description": "这些物品似乎可以\n用来训练你的队伍！\n有数种方式可以进行训练：\n让你队伍中的其他宝可梦与其进行对战。",
   "query": "要怎么训练？",
-  "invalid_selection": "宝可梦必须足够健康",
+  "invalid_selection": "这只宝可梦无法战斗了！",
   "option": {
     "1": {
       "label": "轻量训练",

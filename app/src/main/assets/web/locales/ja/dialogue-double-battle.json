@@ -1,34 +1,34 @@
 {
   "blue_red_double": {
     "encounter": {
-      "1": "Blue: Hey Red, let's show them what we're made of!\n$Red: ...\n$Blue: This is Pallet Town Power!"
+      "1": "グリーン：「オレたちの　カントーで　トップレベルの\n実力を　みせてあげるぜ！」\n$レッド：「……」\n$グリーン：「こりゃあ　マサラタウンの　マッスル　だ！」"
     },
     "victory": {
-      "1": "Blue: That was a great battle!\n$Red: ..."
+      "1": "グリーン：「なるほどな！\nなかなか　やるみたいだなっ！！」\n$レッド：「……」"
     }
   },
   "red_blue_double": {
     "encounter": {
-      "1": "Red: ...!\n$Blue: He never talks much.\n$Blue: But dont let that fool you! He is a champ after all!"
+      "1": "レッド：「……！」\n$グリーン：「あいかわらず　無口だな」\n$グリーン：「でも　油断するな！　\nこいつも　オレも　チャンピオン　だからな！」"
     },
     "victory": {
-      "1": "Red: ...!\n$Blue: Next time we will beat you!"
+      "1": "レッド：「……！」\n$グリーン：「負けちまう　なんてっ！！　きみは　ホンモノだ！！」"
     }
   },
   "tate_liza_double": {
     "encounter": {
-      "1": "Tate: Are you surprised?\n$Liza: We are two gym leaders at once!\n$Tate: We are twins!\n$Liza: We dont need to talk to understand each other!\n$Tate: Twice the power...\n$Liza: Can you handle it?"
+      "1": "フウ「へへへ‥‥ ジムリーダーが」\n$ラン「ふたりも いるんで おどろいた？」\n$フウ「ぼくたち ふたご！」\n$フウ「なにも 言葉に しなくても」\nラン「おたがいの 考えて いることが」\n$フウ「頭の なかに うかぶから」\nラン「通じあうことが できるのヨ！」\n$フウ「そんな ぼくたちの コンビネーション」\nラン「きみに やぶることが できる？」"
     },
     "victory": {
-      "1": "Tate: What? Our combination was perfect!\n$Liza: Looks like we need to train more..."
+      "1": "フウ「ぼっ ぼくたちの」\nラン「コンビネーションが……！」"
     }
   },
   "liza_tate_double": {
     "encounter": {
-      "1": "Liza: Hihihi... Are you surprised?\n$Tate: Yes, we are really two gym leaders at once!\n$Liza: This is my twin brother Tate!\n$Tate: And this is my twin sister Liza!\n$Liza: Don't you think we are a perfect combination?"
+      "1": "ラン「ふふふ…… ジムリーダーが」\n$フウとラン「ふたりも いるんで おどろいた？」\n$フウ「でも ぼくは‥‥」\nラン「でも あたしは‥‥」\n$フウ「いつでも ランと いっしょ！」\nラン「いつでも フウと いっしょ！」\n$フウ「ぼくたちの コンビネーション」\nラン「なんどでも みせて あげるわ！」"
     },
     "victory": {
-      "1": "Liza: Are we...\n$Tate: ...not as strong as we thought?"
+      "1": "フウ「きみと ポケモンって」\nラン「まるで 姉弟みたい！」"
     }
   },
   "wallace_steven_double": {

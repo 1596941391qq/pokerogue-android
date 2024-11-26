@@ -5,7 +5,7 @@
   "title": "The Vitamin Dealer",
   "description": "The man opens his jacket to reveal some Pokémon vitamins. The numbers he quotes seem like a really good deal. Almost too good...\nHe offers two package deals to choose from.",
   "query": "Which deal will you choose?",
-  "invalid_selection": "Pokémon must be healthy enough.",
+  "invalid_selection": "This Pokémon can't receive any!",
   "option": {
     "1": {
       "label": "The Cheap Deal",

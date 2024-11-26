@@ -1,1 +1,10 @@
-{}
+{
+  "encounter": "Sembra che sia arrivata nuovamente l'ora.\nSai perché sei qui, non è vero?\n$Sei stato portato qui, perché ci sei già stato.\nNumerose volte.\n$Si potrebbero perfino contare.\nPrecisamente, è la tua {{cycleCount}} volta qui.\n$E ad ogni ciclo, la tua mente si resetta.\nTuttavia, in qualche modo, ricordi del te passato permangono.\n$Finora non hai avuto successo, ma sento che la tua presenza è diversa stavolta.\n\n$Sei l'unico qui, anche se sembra esserci... qualcun altro.\n$Sarai uno sfidante degno?\nLo sfidante che ho atteso per millenni?\n$Cominciamo.",
+  "encounter_female": "Sembra che sia arrivata nuovamente l'ora.\nSai perché sei qui, non è vero?\n$Sei stata portata qui perché ci sei già stata.\nNumerose volte.\n$Si potrebbero perfino contare.\nPrecisamente, è la tua {{cycleCount}} volta qui.\n$E ad ogni ciclo, la tua mente si resetta.\nTuttavia, in qualche modo, ricordi della te passata permangono.\n$Finora non hai avuto successo, ma sento che la tua presenza è diversa stavolta.\n\n$Sei l'unica qui, anche se sembra esserci... qualcun altro.\n$Sarai una sfidante degna?\nLa sfidante che ho atteso per millenni?\n$Cominciamo.",
+  "firstStageWin": "Capisco. La presenza che avvertivo era reale.\nPare che non debba più trattenermi.\n$Non deludermi.",
+  "secondStageWin": "…magnifico.",
+  "key_ordinal_one": "a",
+  "key_ordinal_two": "a",
+  "key_ordinal_few": "a",
+  "key_ordinal_other": "a"
+}

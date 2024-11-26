@@ -6,21 +6,21 @@
   "option": {
     "1": {
       "label": "Encontrar a Fonte",
-      "tooltip": "(?) Descobrir a fonte\n(-) Batalha Difícil",
+      "tooltip": "(?) Descobrir a fonte\n(-) Batalha Difícil\n(+) Ganhar um Item de Segurar",
       "selected": "Você avança pela tempestade e encontra dois {{volcaronaName}}s no meio de uma dança de acasalamento!$Eles não gostam da interrupção e atacam!"
     },
     "2": {
       "label": "Abaixar-se e Esperar",
-      "tooltip": "(-) Sofrer os efeitos do clima",
+      "tooltip": "(-) Sofrer os efeitos do clima\n(?) Afeta a Habilidade de um Pokémon",
       "selected": "Os efeitos climáticos causam um dano significativo\nenquanto você luta para encontrar abrigo!$Seu grupo perde 20% de PS Máximo!",
-      "target_burned": "Seu {{burnedPokemon}} também foi queimado!"
+      "target_burned": "Seu {{burnedPokemon}} também foi queimado!$Porém, suportar as condições adversas mudou sua habilidade de {{burnedPokemon}} para {{abilityName}}"
     },
     "3": {
-      "label": "Seus Tipos Fogo Ajudam",
-      "tooltip": "(+) Encerrar as condições\n(+) Ganhar um Carvão",
-      "disabled_tooltip": "Você precisa de pelo menos 2 Pokémon do Tipo Fogo para escolher esta opção",
-      "selected": "Seu {{option3PrimaryName}} e {{option3SecondaryName}} guiam você até onde dois {{volcaronaName}}s estão no meio de uma dança de acasalamento!$Felizmente, seus Pokémon conseguem acalmá-los,\ne eles partem sem problemas."
+      "label": "Seus Pokémon Resistentes ao Fogo Ajudam",
+      "tooltip": "(+) Encerrar as condições\n(+) Ganhar um Item de Segurar",
+      "disabled_tooltip": "Você precisa de um Pokémon Tipo Fogo ou certa habilidade para escolher isso",
+      "selected": "Seu {{option3PrimaryName}} guia você até onde dois {{volcaronaName}}s estão no meio de uma dança do acasalamento!$Felizmente, seus Pokémon conseguem acalmá-los,\ne eles partem sem problemas."
     }
   },
-  "found_item": "Após o clima limpar,\nseu {{leadPokemon}} vê algo no chão.$@s{item_fanfare}{{leadPokemon}} encontrou um Carvão!"
+  "found_item": "Depois que o clima limpou,\nseu {{leadPokemon}} encontra algo no chão.$@s{item_fanfare}{{leadPokemon}} ganhou {{itemName}}!"
 }

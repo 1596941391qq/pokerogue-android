@@ -49,6 +49,10 @@
   "moveNotImplemented": "{{moveName}}[[는]] 아직 구현되지 않아 사용할 수 없다…",
   "moveNoPP": "기술의 남은 포인트가 없다!",
   "moveDisabled": "{{moveName}}[[를]] 쓸 수 없다!",
+  "moveDisabledTorment": "{{pokemonNameWithAffix}}[[는]] 트집을 잡혔기 때문에\n계속해서 같은 기술을 쓸 수 없다!\n",
+  "moveDisabledTaunt": "{{pokemonNameWithAffix}} [[는] 도발당해서\n{{moveName}}[[를]] 쓸 수 없다!",
+  "moveDisabledHealBlock": "{{pokemonNameWithAffix}}[[는]] {{healBlockName}} 때문에 {{moveName}}[[를]] 사용할 수 없다!",
+  "moveDisabledImprison": "{{pokemonNameWithAffix}}[[는]] 봉인 때문에 {{moveName}}[[를]] 쓸 수 없다!",
   "canOnlyUseMove": "{{pokemonName}}[[는]]\n{{moveName}}밖에 쓸 수 없다!",
   "moveCannotBeSelected": "{{moveName}}[[를]] 쓸 수 없다!",
   "disableInterruptedMove": "{{pokemonNameWithAffix}}의 {{moveName}}[[는]]\n사용할 수 없다.",
@@ -77,10 +81,10 @@
   "foePokemonWithAffix": "상대 {{pokemonName}}",
   "useMove": "{{pokemonNameWithAffix}}의 {{moveName}}!",
   "drainMessage": "{{pokemonName}}[[로]]부터\n체력을 흡수했다!",
+  "regainHealth": "{{pokemonName}}[[는]]\n체력을 회복했다!",
   "stealEatBerry": "{{pokemonName}}[[가]]\n{{targetName}}의 {{berryName}}[[를]] 빼앗아 먹었다!",
   "ppHealBerry": "{{pokemonNameWithAffix}}[[는]] {{berryName}}[[로]]\n{{moveName}}의 PP를 회복했다!",
   "hpHealBerry": "{{pokemonNameWithAffix}}[[는]] {{berryName}}[[로]]\n체력을 회복했다!",
-  "regainHealth": "{{pokemonName}}[[는]]\n체력을 회복했다!",
   "fainted": "{{pokemonNameWithAffix}}[[는]] 쓰러졌다!",
   "statsAnd": "그리고",
   "stats": "스테이터스",
@@ -106,5 +110,7 @@
   "congratulations": "축하합니다!",
   "beatModeFirstTime": "{{speciesName}}[[가]] {{gameMode}} 모드를 처음으로 클리어했다!\n{{newModifier}}[[를]] 손에 넣었다!",
   "ppReduced": "{{targetName}}의\n{{moveName}}[[를]] {{reduction}} 깎았다!",
-  "mysteryEncounterAppeared": "어라?"
+  "mysteryEncounterAppeared": "어라?",
+  "battlerTagsHealBlock": "{{pokemonNameWithAffix}}[[는]] HP를 회복할 수 없다!",
+  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}}[[는]] 다시 HP를 회복할 수 있게 되었다!"
 }

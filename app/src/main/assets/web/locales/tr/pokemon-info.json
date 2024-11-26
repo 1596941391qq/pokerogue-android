@@ -1,0 +1,32 @@
+{
+  "Stat": {
+    "HP": "SP",
+    "HPshortened": "SP",
+    "ATK": "Saldırı",
+    "ATKshortened": "Sal",
+    "DEF": "Savunma",
+    "DEFshortened": "Sav",
+    "SPD": "Hız",
+    "SPDshortened": "Hız"
+  },
+  "Type": {
+    "NORMAL": "Normal",
+    "FIGHTING": "Dövüşçü",
+    "FLYING": "Uçan",
+    "POISON": "Zehir",
+    "GROUND": "Yer",
+    "ROCK": "Kaya",
+    "BUG": "Böcek",
+    "GHOST": "Hayalet",
+    "STEEL": "Çelik",
+    "FIRE": "Ateş",
+    "WATER": "Su",
+    "GRASS": "Bitki",
+    "ELECTRIC": "Elektrik",
+    "PSYCHIC": "Psişik",
+    "ICE": "Buz",
+    "DRAGON": "Ejderha",
+    "DARK": "Karanlık",
+    "FAIRY": "Peri"
+  }
+}

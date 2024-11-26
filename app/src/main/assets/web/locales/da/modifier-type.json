@@ -1,0 +1,56 @@
+{
+  "ModifierType": {
+    "RARE_CANDY": {
+      "name": "Sjældent Slik"
+    },
+    "RARER_CANDY": {
+      "name": "Sjældnere Slik"
+    },
+    "MAP": {
+      "name": "Kort"
+    },
+    "POTION": {
+      "name": "Medicin"
+    },
+    "REVIVE": {
+      "name": "Genoplivning"
+    },
+    "MAX_REVIVE": {
+      "name": "Max Genoplivning"
+    },
+    "ETHER": {
+      "name": "Æter"
+    },
+    "MAX_ETHER": {
+      "name": "Max Æter"
+    },
+    "DIRE_HIT": {
+      "name": "Hårdt Angreb"
+    },
+    "COIN_CASE": {
+      "name": "Pengeskrin"
+    },
+    "QUICK_CLAW": {
+      "name": "Hurtigklo"
+    }
+  },
+  "TempStatStageBoosterItem": {
+    "x_attack": "X-Angreb",
+    "x_defense": "X-Forsvar",
+    "x_sp_atk": "X-Sp.-Angreb",
+    "x_sp_def": "X-Sp.-Forsvar",
+    "x_speed": "X-Hastighed",
+    "x_accuracy": "X-Præcision"
+  },
+  "AttackTypeBoosterItem": {
+    "silk_scarf": "Silketørklæde"
+  },
+  "BaseStatBoosterItem": {
+    "hp_up": "HP-Øgning",
+    "protein": "Protein",
+    "iron": "Jern",
+    "calcium": "Calcium",
+    "zinc": "Zink",
+    "carbos": "Carbon"
+  }
+}

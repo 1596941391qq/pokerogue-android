@@ -4,6 +4,7 @@
   "title": "Spaß und Spiele!",
   "description": "Du hast ein {{wobbuffetName}} gefunden, das ein Spiel spielt! Du hast @[TOOLTIP_TITLE]{3 Züge}, um das {{wobbuffetName}} so nah wie möglich an @[TOOLTIP_TITLE]{1 KP} heranzubringen, @[TOOLTIP_TITLE]{ohne es zu besiegen}, damit es eine riesige Gegenattacke auf der Glockenmaschine ausführen kann.\nAber sei vorsichtig! Wenn du das {{wobbuffetName}} besiegst, musst du die Kosten für die Wiederbelebung bezahlen!",
   "query": "Möchtest du spielen?",
+  "invalid_selection": "Dieses Pokémon kann nicht spielen!",
   "option": {
     "1": {
       "label": "Das Spiel spielen",

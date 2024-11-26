@@ -1,0 +1,7 @@
+{
+  "fight": "สู้",
+  "ball": "ลูกบอล",
+  "pokemon": "โปเกมอน",
+  "run": "หนี",
+  "actionMessage": "จะให้ {{pokemonName}}\nทำอะไรดี?"
+}

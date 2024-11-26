@@ -1,6 +1,6 @@
 {
   "intro": "Alors que vous vous aventurez dans un passage étroit, une silhouette imposante bloque le passage.$En vous approchant, vous apercevez un {{snorlaxName}}\nendormi paisiblement.$Vous regardez autour de vous, mais n’apercevez aucun chemin alternatif.",
-  "title": "{{snorlaxName}} au Bois dormant",
+  "title": "{{snorlaxName}} au bois dormant",
   "description": "Vous pourriez soit tenter de le faire bouger en l’attaquant, soit attendre son réveil.\nMais impossible de savoir combien de temps cette dernière option prendrait…",
   "query": "Que voulez-vous faire ?",
   "option": {
@@ -19,7 +19,7 @@
       "label": "Voler son objet",
       "tooltip": "(+) {{option3PrimaryName}} utilise {{option3PrimaryMove}}\n(+) Récompense spéciale",
       "disabled_tooltip": "Votre Pokémon doit connaitre certaines capacités pour choisir cette option",
-      "selected": "Votre {{option3PrimaryName}} utilise\n{{option3PrimaryMove}} !$@s{item_fanfare}Vole les Restes du {{snorlaxName}} encore endormi et ressentez de la culpabilité pour ce méfait !"
+      "selected": "Votre {{option3PrimaryName}} utilise\n{{option3PrimaryMove}} !$@s{item_fanfare}Il vole les Restes du {{snorlaxName}} encore endormi puis vous prenez la fuite comme des malfrats !"
     }
   }
 }

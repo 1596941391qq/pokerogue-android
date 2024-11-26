@@ -14,8 +14,8 @@
   "importSlotSelect": "Seleziona uno slot in cui importare.",
   "exportSession": "Esporta sessione",
   "exportSlotSelect": "Seleziona uno slot da cui esportare.",
-  "importRunHistory":"Importa run precedenti",
-  "exportRunHistory":"Esporta run precedenti",
+  "importRunHistory": "Importa run precedenti",
+  "exportRunHistory": "Esporta run precedenti",
   "importData": "Importa dati",
   "exportData": "Esporta dati",
   "consentPreferences": "Consenti preferenze",
@@ -24,6 +24,7 @@
   "linkGoogle": "Collega Google",
   "unlinkGoogle": "Scollega Google",
   "cancel": "Annulla",
+  "donate": "Donazioni",
   "losingProgressionWarning": "Perderai tutti i progressi dall'inizio della battaglia. Confermi?",
   "noEggs": "Non stai schiudendo\nuova al momento!"
 }

@@ -1,13 +1,13 @@
 {
-  "hitWithRecoil": "{{pokemonName}} est blessé par le contrecoup !",
+  "hitWithRecoil": "{{pokemonName}} est blessé\npar le contrecoup !",
   "cutHpPowerUpMove": "{{pokemonName}} sacrifie des PV\net augmente la puissance de ses capacités !",
   "absorbedElectricity": "{{pokemonName}} absorbe de l’électricité !",
   "switchedStatChanges": "{{pokemonName}} permute\nles changements de stats avec ceux de sa cible !",
   "switchedTwoStatChanges": "{{pokemonName}} permute les changements de {{firstStat}} et de {{secondStat}} avec ceux de sa cible !",
-  "switchedStat": "{{pokemonName}} et sa cible échangent leur {{stat}} !",
+  "switchedStat": "{{pokemonName}} et sa cible échangent\nleur {{stat}} !",
   "sharedGuard": "{{pokemonName}} additionne sa garde à celle de sa cible et redistribue le tout équitablement !",
   "sharedPower": "{{pokemonName}} additionne sa force à celle de sa cible et redistribue le tout équitablement !",
-  "shiftedStats": "{{pokemonName}} échange {{statToSwitch}} et {{statToSwitchWith}} !",
+  "shiftedStats": "{{pokemonName}} échange\n{{statToSwitch}} et {{statToSwitchWith}} !",
   "goingAllOutForAttack": "{{pokemonName}} a pris\ncette capacité au sérieux !",
   "regainedHealth": "{{pokemonName}}\nrécupère des PV !",
   "keptGoingAndCrashed": "{{pokemonName}}\ns’écrase au sol !",
@@ -38,7 +38,7 @@
   "startedHeatingUpBeak": "{{pokemonName}}\nfait chauffer son bec !",
   "setUpShellTrap": "{{pokemonName}} déclenche\nle Carapiège !",
   "isOverflowingWithSpacePower": "La puissance du cosmos afflue dans le corps\nde {{pokemonName}} !",
-  "usedUpAllElectricity": "{{pokemonName}}a utilisé\ntoute son électricité !",
+  "usedUpAllElectricity": "{{pokemonName}} a utilisé\ntoute son électricité !",
   "stoleItem": "{{pokemonName}} vole\nl’objet {{itemName}} de {{targetName}} !",
   "incineratedItem": "{{pokemonName}} brule\nla {{itemName}} de {{targetName}} !",
   "knockedOffItem": "{{pokemonName}} fait tomber\nl’objet {{itemName}} de {{targetName}} !",
@@ -73,5 +73,6 @@
   "substituteNotEnoughHp": "Mais il est trop faible\npour créer un clone !",
   "afterYou": "{{targetName}} accepte\navec joie !",
   "combiningPledge": "Les deux capacités se sont combinées !",
-  "awaitingPledge": "{{userPokemonName}} attend\n{{allyPokemonName}}…"
+  "awaitingPledge": "{{userPokemonName}} attend\n{{allyPokemonName}}…",
+  "corrosiveGasItem": "{{pokemonName}} fait fondre l’objet\n{{itemName}} de {{targetName}} !"
 }

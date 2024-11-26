@@ -3,7 +3,7 @@
   "speaker": "富家子弟",
   "intro_dialogue": "向你问好。$你的{{strongestPokemon}}看起来举世无双，我挪不开我的眼睛了！\n我一直也想要一只那样的宝可梦！$你的报酬不会少的，\n这个老家伙也可以送给你！",
   "title": "难以拒绝的买卖",
-  "description": "对方愿意为了你的{{strongestPokemon}}\n出一个a@[TOOLTIP_TITLE]{ {{itemName}}}和{{price, money}}。\n$这交易非常划算，但是你真的舍得\n送走如此强大的伙伴吗？",
+  "description": "对方愿意为了你的{{strongestPokemon}}\n出一个@[TOOLTIP_TITLE]{ {{itemName}}}和{{price, money}}。\n这交易非常划算，但是你真的舍得\n送走如此强大的伙伴吗？",
   "query": "你要怎么做？",
   "option": {
     "1": {

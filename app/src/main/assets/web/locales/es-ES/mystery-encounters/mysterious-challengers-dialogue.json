@@ -1,0 +1,22 @@
+{
+  "intro": "¡Han aparecido desafiantes misteriosos!",
+  "title": "Desafiantes Misteriosos",
+  "description": "Si derrotas a un desafiante, podrías impresionarles lo suficiente como para recibir una recompensa. Pero algunos parecen difíciles, ¿estás listo para el desafío?",
+  "query": "¿Contra quién te enfrentarás?",
+  "option": {
+    "1": {
+      "label": "Un Enemigo Astuto y Consciente",
+      "tooltip": "(-) Batalla Normal\n(+) Recompensas de Objetos de Movimiento"
+    },
+    "2": {
+      "label": "Un Enemigo Fuerte",
+      "tooltip": "(-) Batalla Dura\n(+) Recompensas Buenas"
+    },
+    "3": {
+      "label": "El enemigo más poderoso",
+      "tooltip": "(-) Batalla Brutal\n(+) Grandes Recompensas"
+    },
+    "selected": "El entrenador se acerca hacia ti..."
+  },
+  "outro": "¡El desafiante misterioso fue derrotado!"
+}

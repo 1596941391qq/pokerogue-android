@@ -13,7 +13,7 @@
       "label": "Wait for It to Move",
       "tooltip": "(-) Wait a Long Time\n(+) Recover Party",
       "selected": ".@d{32}.@d{32}.@d{32}$You wait for a time, but the {{snorlaxName}}'s yawns make your party sleepy...",
-      "rest_result": "When you all awaken, the {{snorlaxName}} is no where to be found -\nbut your Pokémon are all healed!"
+      "rest_result": "When you awaken, the {{snorlaxName}} is nowhere to be found -\nbut all your Pokémon are healed!"
     },
     "3": {
       "label": "Steal Its Item",

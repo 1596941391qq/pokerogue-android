@@ -65,6 +65,8 @@
   "noEscapeForce": "Uma força misteriosa\nte impede de fugir.",
   "noEscapeTrainer": "Não se pode fugir de\nbatalhas contra treinadores!",
   "noEscapePokemon": "O movimento {{moveName}} de {{pokemonName}} te impede de fugir!",
+  "noEscapeSwitch": "O Pokémon não pode ser trocado!",
+  "noEscapeFlee": "O Pokémon não pode escapar!",
   "runAwaySuccess": "Você fugiu com sucesso.",
   "runAwayCannotEscape": "Você nao conseguiu fugir!",
   "escapeVerbSwitch": "trocar",

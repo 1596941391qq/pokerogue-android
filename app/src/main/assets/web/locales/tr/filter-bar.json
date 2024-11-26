@@ -1,0 +1,14 @@
+{
+  "typeFilter": "Tür",
+  "caughtFilter": "Yakalanan",
+  "all": "Hepsi",
+  "favorite": "Favori",
+  "isFavorite": "Favori - Evet",
+  "notFavorite": "Favori - Hayır",
+  "egg": "Yumurta",
+  "pokerus": "Pokérus",
+  "hasPokerus": "Pokérus - Evet",
+  "noPokerus": "Pokérus - Hayır",
+  "sortByNumber": "No.",
+  "sortByName": "Ad"
+}

@@ -329,7 +329,7 @@
   },
   "angerPoint": {
     "name": "Anger Point",
-    "description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+    "description": "The Pokémon is angered when it takes a critical hit, maxing its Attack stat."
   },
   "unburden": {
     "name": "Unburden",
@@ -609,7 +609,7 @@
   },
   "moxie": {
     "name": "Moxie",
-    "description": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+    "description": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat."
   },
   "justified": {
     "name": "Justified",

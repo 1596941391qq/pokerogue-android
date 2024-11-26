@@ -64,5 +64,6 @@
   "waterFirePledgeOnAddEnemy": "A rainbow appeared in the sky on the opposing team's side!",
   "grassWaterPledgeOnAdd": "A swamp enveloped the field!",
   "grassWaterPledgeOnAddPlayer": "A swamp enveloped your team!",
-  "grassWaterPledgeOnAddEnemy": "A swamp enveloped the opposing team!"
+  "grassWaterPledgeOnAddEnemy": "A swamp enveloped the opposing team!",
+  "fairyLockOnAdd": "No one will be able to run away during the next turn!"
 }

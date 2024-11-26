@@ -80,5 +80,10 @@
   "imprisonOnAdd": "{{pokemonNameWithAffix}}[[는]]\n상대의 기술을 봉인했다!",
   "autotomizeOnAdd": "{{pokemonNameWithAffix}}의\n몸이 가벼워졌다!",
   "syrupBombOnAdd": "{{pokemonNameWithAffix}}\n물엿범벅이 되었다!",
-  "syrupBombLapse": "물엿범벅 때문에\n{{pokemonNameWithAffix}}의 스피드가 떨어졌다!"
+  "syrupBombLapse": "물엿범벅 때문에\n{{pokemonNameWithAffix}}의 스피드가 떨어졌다!",
+  "telekinesisOnAdd": "{{pokemonNameWithAffix}}[[를]] 허공에 띄웠다!",
+  "electrifiedOnAdd": "{{pokemonNameWithAffix}}의 기술이 송전으로 전기타입이 되었다!",
+  "powerTrickActive": "{{pokemonNameWithAffix}}[[는]] 공격과 방어를 바꿨다!",
+  "powderOnAdd": "{{pokemonNameWithAffix}}에게 분진을 뒤집어씌웠다!",
+  "powderLapse": "불꽃에 반응하여 분진이 폭발했다!"
 }

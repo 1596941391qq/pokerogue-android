@@ -109,7 +109,7 @@
       "description": "Aumenta a precisão dos movimentos em {{accuracyAmount}} (máximo 100)."
     },
     "PokemonMultiHitModifierType": {
-      "description": "Ataques acertam uma vez adicional ao custo de uma redução de poder de 60/75/82.5% por item, respectivamente."
+      "description": "Converte 25% do dano dos ataques de quem segurar em um acerto adicional."
     },
     "TmModifierType": {
       "name": "TM{{moveId}} - {{moveName}}",
@@ -373,6 +373,10 @@
     "ABILITY_CHARM": {
       "name": "Amuleto de Habilidade",
       "description": "Aumenta drasticamente a chance de um Pokémon selvagem ter uma Habilidade Oculta."
+    },
+    "CATCHING_CHARM": {
+      "name": "Amuleto de Captura",
+      "description": "Aumenta as chances de uma captura crítica."
     },
     "IV_SCANNER": {
       "name": "Scanner de IVs",

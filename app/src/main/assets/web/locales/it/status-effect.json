@@ -1,1 +1,41 @@
-{}
+{
+  "none": {
+    "name": "Nessuno"
+  },
+  "poison": {
+    "name": "Avvelenamento",
+    "description": "avvelenato",
+    "obtain": "{{pokemonNameWithAffix}}\nè stato avvelenato!",
+    "obtainSource": "{{pokemonNameWithAffix}}\nè stato avvelenato da {{sourceText}}!",
+    "activation": "Il veleno ha effetto\nsu {{pokemonNameWithAffix}}!",
+    "overlap": "{{pokemonNameWithAffix}} è\ngià avvelenato.",
+    "heal": "{{pokemonNameWithAffix}} guarisce\ndall'avvelenamento!"
+  },
+  "toxic": {
+    "name": "Iperavvelenamento",
+    "description": "iperavvelenato",
+    "obtain": "{{pokemonNameWithAffix}}\nè stato iperavvelenato!",
+    "obtainSource": "{{pokemonNameWithAffix}}\nè stato avvelenato da {{sourceText}}!",
+    "activation": "Il veleno ha effetto\nsu {{pokemonNameWithAffix}}!",
+    "overlap": "{{pokemonNameWithAffix}} è\ngià avvelenato.",
+    "heal": "{{pokemonNameWithAffix}} guarisce\ndall'avvelenamento!"
+  },
+  "paralysis": {
+    "name": "Paralisi",
+    "description": "paralizzato",
+    "obtain": "{{pokemonNameWithAffix}} è stato paralizzato!\nForse non riuscirà ad agire!",
+    "obtainSource": " {{pokemonNameWithAffix}} è stato paralizzato da {{sourceText}}!\n Forse non riuscirà ad agire!",
+    "activation": "{{pokemonNameWithAffix}} è paralizzato!\nNon può agire!",
+    "overlap": "{{pokemonNameWithAffix}} è\ngià paralizzato!",
+    "heal": "{{pokemonNameWithAffix}} è\nguarito dalla paralisi!"
+  },
+  "sleep": {
+    "name": "Sonno",
+    "description": "addormentato",
+    "obtain": "{{pokemonNameWithAffix}}\nsi è addormentato!",
+    "obtainSource": "{{pokemonNameWithAffix}}\nsi è addormentato per via di {{sourceText}}!",
+    "activation": "{{pokemonNameWithAffix}} dorme.",
+    "overlap": "{{pokemonNameWithAffix}} sta\ngià dormendo!",
+    "heal": "{{pokemonNameWithAffix}} si è svegliato!"
+  }
+}

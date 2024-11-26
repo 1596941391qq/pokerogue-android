@@ -1,0 +1,27 @@
+{
+  "intro": "Un hombre en un abrigo oscuro se acerca a ti.",
+  "speaker": "Vendedor Sospechoso",
+  "intro_dialogue": ".@d{16}.@d{16}.@d{16}$Tengo la mercancía si tienes el dinero.$Asegúrate de que tu Pokémon pueda manejarlo.",
+  "title": "Traficante de Vitaminas",
+  "description": "El hombre abre su chaqueta para revelar algunas vitaminas Pokémon. Los precios que menciona parecen una muy buena oferta. Casi demasiado buena…\nOfrece dos paquetes para elegir.",
+  "query": "¿Qué oferta elegirás?",
+  "invalid_selection": "Los Pokémon deben estar lo suficientemente saludables.",
+  "option": {
+    "1": {
+      "label": "La Oferta Barata",
+      "tooltip": "(-) Pagar {{option1Money, money}}\n(-) ¿Efectos secundarios?\n(+) El Pokémon elegido gana 2 Vitaminas aleatorias"
+    },
+    "2": {
+      "label": "La Oferta Cara",
+      "tooltip": "(-) Pagar {{option2Money, money}}\n(+) El Pokémon elegido gana 2 vitaminas aleatorias"
+    },
+    "3": {
+      "label": "Irse",
+      "tooltip": "(-) Ninguna Recompensa",
+      "selected": "Je, no te habría tomado por un cobarde."
+    },
+    "selected": "El hombre te entrega dos botellas y desaparece rápidamente. ¡${{selectedPokemon}} obtuvo {{boost1}} y {{boost2}}!"
+  },
+  "cheap_side_effects": "¡Pero la medicina tuvo algunos efectos secundarios!$¡Tu {{selectedPokemon}} recibe algo de daño\ny su naturaleza cambia a {{newNature}}!",
+  "no_bad_effects": "¡Parece que la medicina no tuvo efectos secundarios!"
+}

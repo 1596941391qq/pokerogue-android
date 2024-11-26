@@ -1,7 +1,7 @@
 {
   "intro": "C’est un énorme tas d’ordures !\nComment il est arrivé là ?",
   "title": "20 000 lieues sous la mer-",
-  "description": "Un énorme tas d’ordures se dresse devant vos yeux, dans lequel vous arrivez à entrevoir quelques objets de valeur.\nPar contre, il faut que vous acceptiez l’idée de vous couvrir de saletés pour allez les récupérer…",
+  "description": "Un énorme tas d’ordures se dresse devant vos yeux, dans lequel vous arrivez à entrevoir quelques objets de valeur.\nPar contre, il faut que vous acceptiez l’idée de vous couvrir de saletés pour aller les récupérer…",
   "query": "Que voulez-vous faire ?",
   "option": {
     "1": {

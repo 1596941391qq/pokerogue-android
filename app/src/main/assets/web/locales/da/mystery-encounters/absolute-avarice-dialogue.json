@@ -1,0 +1,25 @@
+{
+  "intro": "En {{greedentName}} overfalder dig og stjæler dit holds bær!",
+  "title": "Absolute Avarice",
+  "description": "{{greedentName}} har taget dig fuldstændig med bukserne nede, og nu er alle dine bær væk!\n\n{{greedentName}} ser ud til, at den skal til at spise dem, men stopper pludselig og ser interesseret på dig.",
+  "query": "Hvad vil du gøre?",
+  "option": {
+    "1": {
+      "label": "Kæmp",
+      "tooltip": "(-) Hård kamp\n(+) Gevinster fra dens Bær Samling",
+      "selected": "{{greedentName}} fylder sin mund og forbereder sig på kamp!",
+      "boss_enraged": "{{greedentName}}s store kærlighed for mad gør den forarget!",
+      "food_stash": "Det ser ud til at {{greedentName}} bevogtede en enorm samling af mad!$@s{item_fanfare}Hver Pokémon i dit hold får {{foodReward}}!"
+    },
+    "2": {
+      "label": "Diskuter med den",
+      "tooltip": "(+) Få nogle mistede bær tilbage",
+      "selected": "Dine argumenter resonerer med {{greedentName}}.$Den giver ikke alle dine bær tilbage, men kaster et par stykker i din retning."
+    },
+    "3": {
+      "label": "Lad den beholde maden",
+      "tooltip": "(-) Mist alle bærrene\n(?) {{greedentName}} vil syntes om dig",
+      "selected": "{{greedentName}} æder alt i samlingen i et glimt!$Den klapper på sin mave og ser taknemmeligt på dig.$Måske du burde fodre den nogle bær i løbet af dit eventyr...$@s{level_up_fanfare}{{greedentName}} vil gerne rejse med dig!"
+    }
+  }
+}

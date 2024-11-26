@@ -40,5 +40,6 @@
     "Sassy": "{{nature}}진 성격",
     "Careful": "{{nature}}한 성격",
     "Quirky": "{{nature}}스러운 성격"
-  }
+  },
+  "friendship": "친밀도"
 }

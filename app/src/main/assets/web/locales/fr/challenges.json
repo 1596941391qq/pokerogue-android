@@ -6,15 +6,15 @@
     "name": "Monogénération",
     "desc": "Vous ne pouvez choisir que des Pokémon de {{gen}} génération.",
     "desc_default": "Vous ne pouvez choisir que des Pokémon de la génération sélectionnée.",
-    "gen_1": "1re",
-    "gen_2": "2e",
-    "gen_3": "3e",
-    "gen_4": "4e",
-    "gen_5": "5e",
-    "gen_6": "6e",
-    "gen_7": "7e",
-    "gen_8": "8e",
-    "gen_9": "9e"
+    "gen_1": "1ʳᵉ",
+    "gen_2": "2ᵉ",
+    "gen_3": "3ᵉ",
+    "gen_4": "4ᵉ",
+    "gen_5": "5ᵉ",
+    "gen_6": "6ᵉ",
+    "gen_7": "7ᵉ",
+    "gen_8": "8ᵉ",
+    "gen_9": "9ᵉ"
   },
   "singleType": {
     "name": "Monotype",
@@ -35,14 +35,14 @@
     "value.1": "Oui"
   },
   "noAutoHeal": {
-    "name": "Aucun soin d’étape",
+    "name": "Zéro soin d’étape",
     "desc": "Désactive le soin d’étape se produisant normalement toutes les 10 vagues.",
     "value.0": "Non",
     "value.1": "Oui"
   },
   "hardcore": {
-    "name": "Aucune résurrection",
-    "desc": "Impossible de ranimer tout Pokémon tombé K.O. en dehors du soin d’étape toutes les 10 vagues.",
+    "name": "Zéro résurrection",
+    "desc": "Impossible de ranimer tout Pokémon tombé K.O. en dehors du soin d’étape toutes les 10 vagues.",
     "value.0": "Non",
     "value.1": "Oui"
   },

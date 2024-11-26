@@ -8,7 +8,7 @@
     "obtain": "{{pokemonNameWithAffix}}は\n毒を　あびた！",
     "obtainSource": "{{pokemonNameWithAffix}}は\n{{sourceText}}で　毒を　あびた！",
     "activation": "{{pokemonNameWithAffix}}は\n毒の　ダメージを　受けた！",
-    "overlap": "{{pokemonNameWithAffix}}は　すでに\n毒を　あびている",
+    "overlap": "{{pokemonNameWithAffix}}は　すでに\n毒を　あびている！",
     "heal": "{{pokemonNameWithAffix}}の　毒は\nきれいさっぱり　なくなった！"
   },
   "toxic": {
@@ -17,7 +17,7 @@
     "obtain": "{{pokemonNameWithAffix}}は\n猛毒を　あびた！",
     "obtainSource": "{{pokemonNameWithAffix}}は\n{{sourceText}}で　猛毒を　あびた！",
     "activation": "{{pokemonNameWithAffix}}は\n毒の　ダメージを受けた！",
-    "overlap": "{{pokemonNameWithAffix}}は　すでに\n毒を　あびている",
+    "overlap": "{{pokemonNameWithAffix}}は　すでに\n毒を　あびている！",
     "heal": "{{pokemonNameWithAffix}}の　毒は\nきれいさっぱり　なくなった！"
   },
   "paralysis": {
@@ -26,7 +26,7 @@
     "obtain": "{{pokemonNameWithAffix}}は　まひして\n技が　でにくくなった！",
     "obtainSource": "{{pokemonNameWithAffix}}は　{{sourceText}}で　まひして\n技が　でにくくなった！",
     "activation": "{{pokemonNameWithAffix}}は\n体が　しびれて　動けない！",
-    "overlap": "{{pokemonNameWithAffix}}は\nすでに　まひしている",
+    "overlap": "{{pokemonNameWithAffix}}は\nすでに　まひしている！",
     "heal": "{{pokemonNameWithAffix}}の\nしびれが　とれた！"
   },
   "sleep": {

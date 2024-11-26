@@ -498,7 +498,7 @@
   "shelly": {
     "encounter": {
       "1": "Ahahahaha! Du wirst dich in die Angelegenheiten von Team Aqua einmischen?\n$Du bist entweder absolut furchtlos, einfach unwissend oder beides!\n$Du bist so süß, dass es ekelhaft ist! Ich werde dich erledigen.",
-      "2": "Was ist das? Wer ist dieser verwöhnte Gör?",
+      "2": "Was ist das? Wer ist dieses verwöhnte Gör?",
       "3": "Beruhige dich. Sei geduldig. Ich werde dich gleich zermalmen.",
       "3_female": "Beruhige dich. Sei geduldig. Ich werde dich gleich zermalmen."
     },
@@ -2364,10 +2364,10 @@
       "1": "Bereite dich darauf vor, aus erster Hand zu erfahren,\n$wie sich der feurige Atem eines erbitterten Kampfes anfühlt!"
     },
     "victory": {
-      "1": "Das Glück hat mir dieses Mal gelächelt, aber...\n$Angesichts des Verlaufs des Kampfes, wer weiß, ob ich das nächste Mal so viel Glück haben werde."
+      "1": "Mich übermannen gerade die Gefühle...!!"
     },
     "defeat": {
-      "1": "Das war ein Ass!"
+      "1": "Das Glück hat mir dieses Mal gelächelt, aber...\n$Angesichts des Verlaufs des Kampfes, wer weiß, ob ich das nächste Mal so viel Glück haben werde."
     }
   },
   "blue": {
@@ -2451,7 +2451,7 @@
   },
   "iris": {
     "encounter": {
-      "1": "Weißt du was? Ich freue mich wirklich darauf, ernsthafte Kämpfe mit starken Trainern zu führen!\n$Ich meine, komm schon! Die Trainer, die es hierher schaffen, sind Trainer,\n$die den Sieg mit jeder Faser ihres Seins anstreben!\n$Und sie kämpfen Seite an Seite mit Pokémon, die unzählige schwierige Kämpfe durchgemacht haben!\n$Wenn ich mit solchen Leuten kämpfe, werde nicht nur ich stärker, sondern auch meine Pokémon!\n$Und wir werden uns noch besser kennenlernen! OK! Mach dich bereit!\n$Ich bin Iris, die Champion der Pokémon-Liga, und ich werde dich besiegen!"
+      "1": "Weißt du was? Ich freue mich wirklich darauf, ernsthafte Kämpfe mit starken Trainern zu führen!\n$Ich meine, komm schon! Die Trainer, die es hierher schaffen, sind Trainer,\n$die den Sieg mit jeder Faser ihres Seins anstreben!\n$Und sie kämpfen Seite an Seite mit Pokémon, die unzählige schwierige Kämpfe durchgemacht haben!\n$Wenn ich mit solchen Leuten kämpfe, werde nicht nur ich stärker, sondern auch meine Pokémon!\n$Und wir werden uns noch besser kennenlernen! OK! Mach dich bereit!\n$Ich bin Lilia, die Champion der Pokémon-Liga, und ich werde dich besiegen!"
     },
     "victory": {
       "1": "Aghhhh... Ich habe mein Bestes gegeben, aber wir haben verloren..."

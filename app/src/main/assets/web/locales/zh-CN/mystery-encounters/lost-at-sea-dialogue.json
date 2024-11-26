@@ -9,14 +9,14 @@
       "label_disabled": "无法{{option1RequiredMove}}",
       "tooltip": "(+){{option1PrimaryName}}帮助你\n(+){{option1PrimaryName}}获得经验值",
       "tooltip_disabled": "你没有宝可梦\n能够{{option1RequiredMove}}",
-      "selected": "{{option1PrimaryName}}游在前面，引导你回到正轨。${{option1PrimaryName}}似乎也在这次需要它的时候变得更强大了！"
+      "selected": "{{option1PrimaryName}}游在前面，引导你回到正轨。${{option1PrimaryName}}似乎也在这次需要它的时候\n变得更强大了！"
     },
     "2": {
       "label": "{{option2PrimaryName}}可以帮忙",
       "label_disabled": "无法{{option2RequiredMove}}",
       "tooltip": "(+){{option2PrimaryName}}帮助你\n(+){{option2PrimaryName}}获得经验值",
       "tooltip_disabled": "你没有宝可梦\n能够{{option2RequiredMove}}",
-      "selected": "{{option2PrimaryName}}飞在你的船前面，引导你回到正轨。在这次需要它的时候，${{option2PrimaryName}}似乎也变得更强大了！"
+      "selected": "{{option2PrimaryName}}飞在你的船前面，引导你回到正轨。$在这次需要它的时候，\n{{option2PrimaryName}}似乎也变得更强大了！"
     },
     "3": {
       "label": "漫无目的地漂流",

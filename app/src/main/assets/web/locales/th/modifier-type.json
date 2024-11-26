@@ -1,0 +1,64 @@
+{
+  "ModifierType": {
+    "RARE_CANDY": {
+      "name": "ลูกอมประหลาด"
+    },
+    "POTION": {
+      "name": "ยารักษาแผล"
+    },
+    "SUPER_POTION": {
+      "name": "ยารักษาแผลอย่างดี"
+    },
+    "HYPER_POTION": {
+      "name": "ยารักษาแผลชั้นยอด"
+    },
+    "MAX_POTION": {
+      "name": "ยาฟื้นพลังกายเต็มถัง"
+    },
+    "REVIVE": {
+      "name": "ยาคืนชีพ"
+    },
+    "MAX_REVIVE": {
+      "name": "ยาคืนชีพชั้นยอด"
+    },
+    "EXP_SHARE": {
+      "name": "อุปกรณ์ช่วยเรียนรู้"
+    },
+    "LUCKY_EGG": {
+      "name": "ไข่แห่งความสุข"
+    },
+    "KINGS_ROCK": {
+      "name": "สัญลักษณ์แห่งราชา"
+    },
+    "LEFTOVERS": {
+      "name": "อาหารเหลือ"
+    }
+  },
+  "AttackTypeBoosterItem": {
+    "metal_coat": "ฟิล์มโลหะ"
+  },
+  "EvolutionItem": {
+    "SUN_STONE": "หินพระอาทิตย์",
+    "DRAGON_SCALE": "เกล็ดมังกร"
+  },
+  "FormChangeItem": {
+    "FIGHTING_MEMORY": "เมมโมรีต่อสู้",
+    "FLYING_MEMORY": "เมมโมรีบิน",
+    "POISON_MEMORY": "เมมโมรีพิษ",
+    "GROUND_MEMORY": "เมมโมรีดิน",
+    "ROCK_MEMORY": "เมมโมรีหิน",
+    "BUG_MEMORY": "เมมโมรีแมลง",
+    "GHOST_MEMORY": "เมมโมรีผี",
+    "STEEL_MEMORY": "เมมโมรีโลหะ",
+    "FIRE_MEMORY": "เมมโมรีไฟ",
+    "WATER_MEMORY": "เมมโมรีน้ำ",
+    "GRASS_MEMORY": "เมมโมรีหญ้า",
+    "ELECTRIC_MEMORY": "เมมโมรีไฟฟ้า",
+    "PSYCHIC_MEMORY": "เมมโมรีพลังจิต",
+    "ICE_MEMORY": "เมมโมรีน้ำแข็ง",
+    "DRAGON_MEMORY": "เมมโมรีมังกร",
+    "DARK_MEMORY": "เมมโมรีความมืด",
+    "FAIRY_MEMORY": "เมมโมรีแฟรี่",
+    "NORMAL_MEMORY": "เมมโมรีปกติ"
+  }
+}

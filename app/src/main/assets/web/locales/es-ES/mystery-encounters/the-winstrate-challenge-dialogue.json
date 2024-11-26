@@ -1,0 +1,22 @@
+{
+  "intro": "¡Es una familia parada afuera de su casa!",
+  "speaker": "La Familia Estratega",
+  "intro_dialogue": "¡Somos la familia Estratega!$¿Qué te parece enfrentarte a nuestra familia en una serie de combates Pokémon?",
+  "title": "El desafío de la familia Estratega",
+  "description": "¡Los Estratega son una familia de @[TOOLTIP_TITLE]{5 entrenadores}, y quieren luchar! Si los vences a todos uno tras otro, te darán un gran premio. ¿Pero puedes soportar la presión?",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Aceptar el Desafío",
+      "tooltip": "(-) Batalla Brutal contra 5 Entrenadores\n(+) Recompensa de Objeto especial",
+      "selected": "¡Que empiece el desafío!"
+    },
+    "2": {
+      "label": "Rechazar el Desafío",
+      "tooltip": "(+) Cura completamente al equipo\n(+) Obten un Caramelorarísimo",
+      "selected": "Qué lástima. Oye, tu equipo parece agotado, ¿por qué no te quedas un rato y descansas?"
+    }
+  },
+  "victory": "¡Felicidades por superar nuestro desafío!$Primero, nos gustaría que tuvieras este vale.",
+  "victory_2": "Además, nuestra familia usa esta Brazal Firme para fortalecer\na nuestros Pokémon de manera más efectiva durante el entrenamiento.$Puede que no la necesites considerando que nos derrotaste a todos, ¡pero esperamos que la aceptes de todos modos!"
+}

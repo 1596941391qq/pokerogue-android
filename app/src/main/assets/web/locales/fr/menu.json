@@ -24,7 +24,7 @@
   "confirmPassword": "Confirmer le MDP",
   "registrationAgeWarning": "En vous inscrivant, vous certifiez que vous avez 13 ans ou plus.",
   "backToLogin": "Retour",
-  "failedToLoadSaveData": "Échec du chargement des données. Veuillez recharger\nla page. Si cela persiste, contactez l’administrateur.",
+  "failedToLoadSaveData": "Échec du chargement de la sauvegarde. Rechargez la page.\nSi cela persiste, consultez #announcements sur Discord.",
   "sessionSuccess": "Session chargée avec succès.",
   "failedToLoadSession": "Vos données de session n’ont pas pu être chargées.\nElles pourraient être corrompues.",
   "boyOrGirl": "Es-tu un garçon ou une fille ?",
@@ -53,6 +53,6 @@
   "renameHelpEmoji": "Utilisez \"/\" pour afficher la liste des émojis suivi d’un nombre pour sélectionner. (ex : \"/1\" pour le 1er, 6 max)",
   "nickname": "Surnom",
   "errorServerDown": "Oupsi ! Un problème de connexion au serveur est survenu.\n\nVous pouvez garder cette fenêtre ouverte,\nle jeu se reconnectera automatiquement.",
-  "noSaves": "Vous n’avez aucune sauvegarde enregistrée !",
+  "noSaves": "Aucune sauvegarde enregistrée !",
   "tooManySaves": "Vous avez trop de sauvegardes enregistrées !"
 }

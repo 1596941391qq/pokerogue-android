@@ -109,7 +109,7 @@
       "description": "Aumenta la precisione delle mosse di {{accuracyAmount}} (massimo 100)."
     },
     "PokemonMultiHitModifierType": {
-      "description": "Gli attacchi colpiscono una volta in più al costo di una riduzione di potenza del 60/75/82,5% per mossa."
+      "description": "Converte il 25% del danno inflitto dagli attacchi del possessore in un colpo aggiuntivo."
     },
     "TmModifierType": {
       "name": "MT{{moveId}} - {{moveName}}.",
@@ -266,11 +266,11 @@
       "name": "Mirino",
       "description": "Lente che aumenta la probabilità di sferrare brutti colpi."
     },
-    "DIRE_HIT": { 
-      "name": "Supercolpo", 
-      "extra": { 
+    "DIRE_HIT": {
+      "name": "Supercolpo",
+      "extra": {
         "raises": "Tasso di brutti colpi"
-      } 
+      }
     },
     "LEEK": {
       "name": "Porro",
@@ -374,6 +374,10 @@
       "name": "Abilitamuleto",
       "description": "Aumenta drasticamente la possibilità che un Pokémon selvatico abbia un'abilità nascosta."
     },
+    "CATCHING_CHARM": {
+      "name": "Catturamuleto",
+      "description": "Aumenta la probabilità che si verifichi una cattura critica."
+    },
     "IV_SCANNER": {
       "name": "Scanner IV",
       "description": "Permette di scansionare gli IV dei Pokémon selvatici. Vengono rivelati 2 IV per ogni scanner. I migliori IV vengono mostrati per primi."
@@ -420,12 +424,25 @@
       "name": "Gettone della fusione",
       "description": "Aggiunge l'1% di possibilità che un Pokémon selvatico sia una fusione."
     },
-
-    "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": { "name": "Succo Shuckle" },
-    "MYSTERY_ENCOUNTER_BLACK_SLUDGE": { "name": "Fangopece", "description": "L'odore è talmente sgradevole che i prezzi dei negozi aumentano drasticamente." },
-    "MYSTERY_ENCOUNTER_MACHO_BRACE": { "name": "Crescicappa", "description": "Sconfiggere un Pokémon aumenta di 1 il punteggio Crescicappa. Maggiore il punteggio, maggiore l'aumento alle statistiche, con un ulteriore bonus al massimo." },
-    "MYSTERY_ENCOUNTER_OLD_GATEAU": { "name": "Dolce Gateau", "description": "Aumenta le statistiche {{stats}} del possessore di {{statValue}}." },
-    "MYSTERY_ENCOUNTER_GOLDEN_BUG_NET": { "name": "Retino Dorato", "description": "Infonde fortuna nel possessore affinché trovi più Pokémon coleottero. Ha uno strano peso." }
+    "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
+      "name": "Succo Shuckle"
+    },
+    "MYSTERY_ENCOUNTER_BLACK_SLUDGE": {
+      "name": "Fangopece",
+      "description": "L'odore è talmente sgradevole che i prezzi dei negozi aumentano drasticamente."
+    },
+    "MYSTERY_ENCOUNTER_MACHO_BRACE": {
+      "name": "Crescicappa",
+      "description": "Sconfiggere un Pokémon aumenta di 1 il punteggio Crescicappa. Maggiore il punteggio, maggiore l'aumento alle statistiche, con un ulteriore bonus al massimo."
+    },
+    "MYSTERY_ENCOUNTER_OLD_GATEAU": {
+      "name": "Dolce Gateau",
+      "description": "Aumenta le statistiche {{stats}} del possessore di {{statValue}}."
+    },
+    "MYSTERY_ENCOUNTER_GOLDEN_BUG_NET": {
+      "name": "Retino Dorato",
+      "description": "Infonde fortuna nel possessore affinché trovi più Pokémon coleottero. Ha uno strano peso."
+    }
   },
   "SpeciesBoosterItem": {
     "LIGHT_BALL": {
@@ -514,7 +531,6 @@
     "LEADERS_CREST": "Simbolo del capo",
     "SUN_FLUTE": "Flauto solare",
     "MOON_FLUTE": "Flauto lunare",
-    
     "CHIPPED_POT": "Teiera crepata",
     "BLACK_AUGURITE": "Augite nera",
     "GALARICA_CUFF": "Fascia Galarnoce",

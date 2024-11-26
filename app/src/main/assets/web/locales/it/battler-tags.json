@@ -74,5 +74,18 @@
   "shedTailOnAdd": "{{pokemonNameWithAffix}} si taglia\nla coda e ne fa un sostituto!",
   "substituteOnAdd": "Appare un sostituto di {{pokemonNameWithAffix}}!",
   "substituteOnHit": "Il sostituto viene colpito al posto di {{pokemonNameWithAffix}}!",
-  "substituteOnRemove": "Il sostituto di {{pokemonNameWithAffix}} svanisce!"
+  "substituteOnRemove": "Il sostituto di {{pokemonNameWithAffix}} svanisce!",
+  "tormentOnAdd": "{{pokemonNameWithAffix}} subisce Attaccalite!",
+  "tauntOnAdd": "{{pokemonNameWithAffix}} è in balia\ndi Provocazione!",
+  "imprisonOnAdd": "{{pokemonNameWithAffix}} ha bloccato\nle mosse in comune con l’avversario!",
+  "autotomizeOnAdd": "{{pokemonNameWithAffix}} diventa velocissimo!",
+  "syrupBombOnAdd": "{{pokemonNameWithAffix}} è ricoperto\ndi sciroppo!",
+  "syrupBombLapse": "Lo sciroppo rallenta {{pokemonNameWithAffix}}!",
+  "telekinesisOnAdd": "{{pokemonNameWithAffix}} è stato\nlanciato in aria!",
+  "electrifiedOnAdd": "La prossima mossa di {{pokemonNameWithAffix}}\ndiventa di tipo Elettro a causa di Elettrocontagio!",
+  "powerTrickActive": "{{pokemonNameWithAffix}} inverte l’Attacco con la Difesa!",
+  "powderOnAdd": "{{pokemonNameWithAffix}} è cosparso di polvere esplosiva!",
+  "powderLapse": "Il pulviscolo esplode per reazione\nalla mossa {{moveName}} !",
+  "grudgeOnAdd": "{{pokemonNameWithAffix}} avvolge l’avversario in un’aura di rancore!",
+  "grudgeLapse": "La mossa {{moveName}} di {{pokemonNameWithAffix}} perde tutti i PP a causa del rancore!"
 }

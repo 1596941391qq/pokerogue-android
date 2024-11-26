@@ -9,16 +9,20 @@
     "description": "Accumula {{moneyAmount}} PokéDollari"
   },
   "10K_MONEY": {
-    "name": "Benestante"
+    "name": "Benestante",
+    "name_female": "Benestante"
   },
   "100K_MONEY": {
-    "name": "Ricco"
+    "name": "Ricco",
+    "name_female": "Ricca"
   },
   "1M_MONEY": {
-    "name": "Milionario"
+    "name": "Milionario",
+    "name_female": "Milionaria"
   },
   "10M_MONEY": {
-    "name": "La numero uno"
+    "name": "Il numero uno",
+    "name_female": "La numero uno"
   },
   "DamageAchv": {
     "description": "Infliggi {{damageAmount}} danni in un colpo"
@@ -27,28 +31,35 @@
     "name": "Grandi danni!"
   },
   "1000_DMG": {
-    "name": "Incredibili danni"
+    "name": "Incredibili danni",
+    "name_female": "Incredibili danni"
   },
   "2500_DMG": {
-    "name": "Danni a palate!"
+    "name": "Danni a palate!",
+    "name_female": "Danni a palate!"
   },
   "10000_DMG": {
-    "name": "One Punch Man"
+    "name": "One Punch Man",
+    "name_female": "One Punch Woman"
   },
   "HealAchv": {
     "description": "Cura {{healAmount}} {{HP}} tramite mossa, abilità, o oggetto"
   },
   "250_HEAL": {
-    "name": "Paramedico"
+    "name": "Paramedico",
+    "name_female": "Paramedica"
   },
   "1000_HEAL": {
-    "name": "Dottore"
+    "name": "Dottore",
+    "name_female": "Dottoressa"
   },
   "2500_HEAL": {
-    "name": "Chierico"
+    "name": "Chierico",
+    "name_female": "Chierica"
   },
   "10000_HEAL": {
-    "name": "Mastro Curatore"
+    "name": "Mastro Curatore",
+    "name_female": "Mastra Curatrice"
   },
   "LevelAchv": {
     "description": "Porta un pokémon a Lv{{level}}"
@@ -57,7 +68,8 @@
     "name": "E Non Finisce Qui!"
   },
   "LV_250": {
-    "name": "Elite"
+    "name": "Elite",
+    "name_female": "Elite"
   },
   "LV_1000": {
     "name": "Verso l'Infinito ed Oltre!"
@@ -66,19 +78,24 @@
     "description": "Accumula un Totale di {{ribbonAmount}} Nastri"
   },
   "10_RIBBONS": {
-    "name": "Campione Lega Pokémon"
+    "name": "Campione Lega Pokémon",
+    "name_female": "Campionessa Lega Pokémon"
   },
   "25_RIBBONS": {
-    "name": "Campione Lega Estesa"
+    "name": "Campione Lega Estesa",
+    "name_female": "Campionessa Lega Estesa"
   },
   "50_RIBBONS": {
-    "name": "Campione Lega Ultra"
+    "name": "Campione Lega Ultra",
+    "name_female": "Campionessa Lega Ultra"
   },
   "75_RIBBONS": {
-    "name": "Campione Lega Rogue"
+    "name": "Campione Lega Rogue",
+    "name_female": "Campionessa Lega Rogue"
   },
   "100_RIBBONS": {
-    "name": "Campione Lega Assoluta"
+    "name": "Campione Lega Assoluta",
+    "name_female": "Campionessa Lega Assoluta"
   },
   "TRANSFER_MAX_STAT_STAGE": {
     "name": "Lavoro di Squadra",
@@ -130,6 +147,7 @@
   },
   "SHINY_PARTY": {
     "name": "Dedizione Totale",
+    "name_female": "Dedizione Totale",
     "description": "Riempi la squadra di Pokémon shiny"
   },
   "HATCH_MYTHICAL": {
@@ -158,6 +176,7 @@
   },
   "CLASSIC_VICTORY": {
     "name": "Imbattuto",
+    "name_female": "Imbattuta",
     "description": "Vinci in modalità classica"
   },
   "UNEVOLVED_CLASSIC_VICTORY": {
@@ -261,9 +280,9 @@
     "name": "Buona la prima!",
     "description": "Completa la modalità sfida 'Un nuovo inizio'."
   },
-  "BREEDERS_IN_SPACE": {
-    "name": "Breeders in Space!",
-    "description": "Beat the Expert Pokémon Breeder in the Space Biome."
+  "INVERSE_BATTLE": {
+    "name": "Specchio oihccepS",
+    "description": "Completa la modalità sfida Battaglia invertita.\n.atitrevni ailgattaB adifs àtiladom al atelpmoC"
   },
   "BREEDERS_IN_SPACE": {
     "name": "Breeders in Space!",

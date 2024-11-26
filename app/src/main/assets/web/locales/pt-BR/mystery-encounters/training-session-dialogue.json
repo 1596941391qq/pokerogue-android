@@ -3,7 +3,7 @@
   "title": "Sessão de Treinamento",
   "description": "Esses suprimentos parecem que poderiam ser usados para treinar um membro do seu time! Há algumas maneiras de treinar seu Pokémon, @[TOOLTIP_TITLE]{batalhando e derrotando-o com o resto do seu time}.",
   "query": "Como você deve treinar?",
-  "invalid_selection": "O Pokémon precisa estar saudável o suficiente.",
+  "invalid_selection": "Esse Pokémon não pode batalhar!",
   "option": {
     "1": {
       "label": "Treinamento Leve",

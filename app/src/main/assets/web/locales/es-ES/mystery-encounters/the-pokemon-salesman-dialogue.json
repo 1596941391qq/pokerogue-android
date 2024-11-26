@@ -1,0 +1,23 @@
+{
+  "intro": "Un anciano alegre se acerca a ti.",
+  "speaker": "Aristócrata",
+  "intro_dialogue": "¡Hola! ¡Tengo una oferta buenísima para TI!",
+  "title": "El Vendedor de Pokémon",
+  "description": "\"¡Este {{purchasePokemon}} es extremadamente único y @[TOOLTIP_TITLE]{tiene una habilidad que normalmente no se encuentra en su especie}! ¡Te dejaré tener este estupendo {{purchasePokemon}} por solo {{price, money}}!\"\n\n\"¿Qué dices?\"",
+  "description_shiny": "\"¡Este {{purchasePokemon}} es extremadamente único y @[TOOLTIP_TITLE]{tiene un pigmento que normalmente no se encuentra en su especie}! ¡Te dejaré tener este estupendo {{purchasePokemon}} por solo {{price, money}}!\"\n\n\"¿Qué dices?\"",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Aceptar",
+      "tooltip": "(-) Pagar {{price, money}}\n(+) Obtén un {{purchasePokemon}} con su Habilidad Oculta",
+      "tooltip_shiny": "(-) Paga {{price, money}}\n(+) Obtén un {{purchasePokemon}} shiny",
+      "selected_message": "Pagaste una suma exorbitante y compraste el {{purchasePokemon}}.",
+      "selected_dialogue": "¡Excelente elección!$Puedo ver que tienes un buen ojo para los negocios.$Ah, sí...@d{64} No se aceptan devoluciones, ¿entendido?"
+    },
+    "2": {
+      "label": "Rechazar",
+      "tooltip": "(-) Ninguna Recompensa",
+      "selected": "¿No...?@d{32} ¿Dices que no?$¡Solo estoy haciendo esto como un favor para ti!"
+    }
+  }
+}

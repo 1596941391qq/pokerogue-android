@@ -2913,7 +2913,7 @@
   },
   "zippyZap": {
     "name": "Pika-Sprint",
-    "effect": "Une attaque électrique rapide comme l’éclair qui inflige un coup critique à coup sûr. Frappe en priorité."  
+    "effect": "Une attaque électrique rapide comme l’éclair qui inflige un coup critique à coup sûr. Frappe en priorité."
   },
   "splishySplash": {
     "name": "Pika-Splash",
@@ -2937,7 +2937,7 @@
   },
   "sizzlySlide": {
     "name": "Évo-Flambo",
-    "effect": "Évoli s’embrase et percure violemment l’adversaire. Brule aussi l’ennemi."
+    "effect": "Le lanceur s’embrase et percute violemment l’adversaire. Brule aussi l’ennemi."
   },
   "glitzyGlow": {
     "name": "Évo-Psycho",
@@ -2945,15 +2945,15 @@
   },
   "baddyBad": {
     "name": "Évo-Ténébro",
-    "effect": "Évoli fait appel à son côté sombre pour attaquer l’adversaire et créer un mur fabuleux qui réduit les dégâts causés par les attaques physiques de l’ennemi."
+    "effect": "Le lanceur fait appel à son côté sombre pour attaquer l’adversaire et créer un mur fabuleux qui réduit les dégâts causés par les attaques physiques de l’ennemi."
   },
   "sappySeed": {
     "name": "Évo-Écolo",
-    "effect": "Une liane géante surgit du sol et bombarde l’adversaire de graines qui lui dérobent des PV à chaque tour. Ces PV sont ensuite absorbés par Évoli."
+    "effect": "Une liane géante surgit du sol et bombarde l’adversaire de graines qui lui dérobent des PV à chaque tour. Ces PV sont ensuite absorbés par le lanceur."
   },
   "freezyFrost": {
     "name": "Évo-Congélo",
-    "effect": "Évoli frappe l’adversaire avec un cristal de buée noire gelée. Annule les changements de stats de tous les Pokémon au combat."
+    "effect": "Le lanceur frappe l’adversaire avec un cristal de buée noire gelée. Annule les changements de stats de tous les Pokémon au combat."
   },
   "sparklySwirl": {
     "name": "Évo-Fabulo",

@@ -2,7 +2,7 @@
   "activeBattleEffects": "Effets Actifs",
   "player": "Vous",
   "neutral": "Neutre",
-  "enemy": "Ennemi",
+  "enemy": "Adversaire",
   "sunny": "Soleil",
   "rain": "Pluie",
   "sandstorm": "Tempête de Sable",
@@ -37,5 +37,11 @@
   "craftyShield": "Vigilance",
   "tailwind": "Vent Arrière",
   "happyHour": "Étrennes",
-  "safeguard": "Rune Protect"
+  "safeguard": "Rune Protect",
+  "noCrit": "Air Veinard",
+  "ionDeluge": "Déluge Plasmique",
+  "fireGrassPledge": "Mer de Feu",
+  "waterFirePledge": "Arc-en-ciel",
+  "grassWaterPledge": "Marécage",
+  "fairyLock": "Verrou Enchanté"
 }

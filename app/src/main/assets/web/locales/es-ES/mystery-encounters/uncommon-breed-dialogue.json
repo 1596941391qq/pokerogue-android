@@ -1,0 +1,26 @@
+{
+  "intro": "¡Eso no es un Pokémon ordinario!",
+  "title": "Variante Inusual",
+  "description": "Ese {{enemyPokemon}} parece especial en comparación con otros de su tipo. @[TOOLTIP_TITLE]{¿Quizás conoce un movimiento especial?} Podrías luchar y capturarlo directamente, pero también podría haber una manera de hacerte amigo de él.",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Enfrentarse al Pokémon",
+      "tooltip": "(-) Batalla Dura\n(+) Enemigo Fuerte Capturable",
+      "selected": "Te acercas al\n{{enemyPokemon}} sin miedo.",
+      "stat_boost": "¡Las habilidades de {{enemyPokemon}} aumentaron sus estadísticas!"
+    },
+    "2": {
+      "label": "Darle Comida",
+      "disabled_tooltip": "Necesitas 4 bayas para elegir esto.",
+      "tooltip": "(-) Dar 4 Bayas\n(+) Le gustas a {{enemyPokemon}}",
+      "selected": "¡Lanzas las bayas a {{enemyPokemon}}!$¡Las come felizmente!$¡{{enemyPokemon}} quiere unirse a tu equipo!"
+    },
+    "3": {
+      "label": "Hacerse Amigo de Él",
+      "disabled_tooltip": "Tus Pokémon necesitan conocer ciertos movimientos para elegir esto",
+      "tooltip": "(+) {{option3PrimaryName}} usa {{option3PrimaryMove}}\n(+) Le gustas a {{enemyPokemon}}",
+      "selected": "¡Tu {{option3PrimaryName}} usa {{option3PrimaryMove}} para encantar a {{enemyPokemon}}!$¡{{enemyPokemon}} quiere unirse a tu equipo!"
+    }
+  }
+}

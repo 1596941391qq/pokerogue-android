@@ -1,0 +1,19 @@
+{
+  "intro": "¡Es una pila enorme de basura!\n¿De dónde vino esto?",
+  "title": "De Basura a Tesoro",
+  "description": "La pila de basura se cierne sobre ti, y puedes ver algunos objetos de valor enterrados entre los desechos. ¿Estás seguro de que quieres ensuciarte para conseguirlos?",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Cavar en busca de objetos valiosos",
+      "tooltip": "(-) Los objetos en las tiendas costarán x{{costMultiplier}}\n(+) Obtén objetos increíbles",
+      "selected": "Te abres paso a través de la pila de basura, quedando cubierto de mugre.$¡No hay manera de que un tendero respetable\nte venda objetos a la tarifa normal en tu estado mugriento!$¡Ahora tendrás que pagar extra por los objetos!$Sin embargo, encontraste algunos objetos increíbles en la basura."
+    },
+    "2": {
+      "label": "Investigar más a fondo",
+      "tooltip": "(?) Encontrar la Fuente de la Basura",
+      "selected": "Deambulas por la pila, buscando alguna indicación de cómo pudo haber aparecido aquí...",
+      "selected_2": "¡De repente, la basura se mueve! ¡No era solo basura, era un Pokémon!"
+    }
+  }
+}

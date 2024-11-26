@@ -1,0 +1,56 @@
+{
+  "ModifierType": {
+    "TmModifierTypeWithInfo": {
+      "name": "TM{{moveId}} - {{moveName}}"
+    },
+    "RARE_CANDY": {
+      "name": "Nadir Şeker"
+    },
+    "MEGA_BRACELET": {
+      "name": "Mega Bilekliği"
+    },
+    "DYNAMAX_BAND": {
+      "name": "Dinamaks Bilekliği"
+    },
+    "MAP": {
+      "name": "Harita"
+    },
+    "POTION": {
+      "name": "İksir"
+    },
+    "SUPER_POTION": {
+      "name": "Süper İksir"
+    },
+    "HYPER_POTION": {
+      "name": "Hiper İksir"
+    },
+    "MAX_POTION": {
+      "name": "Maks. İksir"
+    },
+    "REVIVE": {
+      "name": "Canlandır"
+    },
+    "MAX_REVIVE": {
+      "name": "Maks. Canlandır"
+    },
+    "LUCKY_EGG": {
+      "name": "Şans Yumurtası"
+    },
+    "KINGS_ROCK": {
+      "name": "Kral Kayası"
+    }
+  },
+  "TempStatStageBoosterItem": {
+    "x_attack": "X Saldırı",
+    "x_defense": "X Savunma",
+    "x_speed": "X Hız"
+  },
+  "AttackTypeBoosterItem": {
+    "metal_coat": "Metal Kaplama"
+  },
+  "EvolutionItem": {
+    "SUN_STONE": "Güneş Taşı",
+    "UPGRADE": "Geliştirme",
+    "DRAGON_SCALE": "Ejderha Pulu"
+  }
+}

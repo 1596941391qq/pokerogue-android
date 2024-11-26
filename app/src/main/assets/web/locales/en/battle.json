@@ -65,6 +65,8 @@
   "noEscapeForce": "An unseen force\nprevents escape.",
   "noEscapeTrainer": "You can't run\nfrom a trainer battle!",
   "noEscapePokemon": "{{pokemonName}}'s {{moveName}}\nprevents {{escapeVerb}}!",
+  "noEscapeSwitch": "The Pokémon can't be switched out!",
+  "noEscapeFlee": "The Pokémon can't escape!",
   "runAwaySuccess": "You got away safely!",
   "runAwayCannotEscape": "You can't escape!",
   "escapeVerbSwitch": "switching",

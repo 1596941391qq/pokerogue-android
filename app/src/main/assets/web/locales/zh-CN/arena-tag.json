@@ -64,5 +64,6 @@
   "waterFirePledgeOnAddEnemy": "彩虹出现在了对手上空！",
   "grassWaterPledgeOnAdd": "场地周围延伸出了湿地！",
   "grassWaterPledgeOnAddPlayer": "在我方周围延伸出了湿地！",
-  "grassWaterPledgeOnAddEnemy": "在对手周围延伸出了湿地！"
+  "grassWaterPledgeOnAddEnemy": "在对手周围延伸出了湿地！",
+  "fairyLockOnAdd": "下回合任何人都无法逃脱！"
 }

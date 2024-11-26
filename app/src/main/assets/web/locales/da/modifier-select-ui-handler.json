@@ -1,0 +1,4 @@
+{
+  "rerollCost": "{{formattedMoney}}₽",
+  "itemCost": "{{formattedMoney}}₽"
+}

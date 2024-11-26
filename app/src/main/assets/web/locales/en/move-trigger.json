@@ -73,5 +73,6 @@
   "substituteNotEnoughHp": "But it does not have enough HP\nleft to make a substitute!",
   "afterYou": "{{targetName}} took the kind offer!",
   "combiningPledge": "The two moves have become one!\nIt's a combined move!",
-  "awaitingPledge": "{{userPokemonName}} is waiting for {{allyPokemonName}}'s move..."
+  "awaitingPledge": "{{userPokemonName}} is waiting for {{allyPokemonName}}'s move...",
+  "corrosiveGasItem": "{{pokemonName}} corroded\n{{targetName}}'s {{itemName}}!"
 }

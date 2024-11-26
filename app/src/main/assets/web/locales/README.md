@@ -8,14 +8,14 @@ This repository contains the locales files for the [PokéRogue](https://github.c
 
 - en - English
 - de - German
-- es - Spanish
+- es-ES - Spanish (Spain)
 - fr - French
 - it - Italian
 - ja - Japanese
 - ko - Korean
-- pt-BR - Brazilian Portuguese
-- zh-CN - Chinese (simplified)
-- zh-TW - Chinese (traditional)
+- pt-BR - Portuguese (Brazil)
+- zh-CN - Chinese (Simplified)
+- zh-TW - Chinese (Traditional)
 
 ### Integrated but disabled
 

@@ -1,9 +1,9 @@
 {
   "intro": "Mais c’est…@d{64} un clown ?",
   "speaker": "Clown",
-  "intro_dialogue": "Eh toi, tu m’as l’air clownesque !\nPrépare-toi pour un combat magistral !$Je vais te montrer ce que sont les arts de la rue !",
+  "intro_dialogue": "Eh toi, tu m’as l’air carrément clownesque !\nPrépare-toi pour un combat magistral !$Je vais te montrer ce que sont les arts de la rue !",
   "title": "Bouffonneries",
-  "description": "Quelque chose semble louche. Ce Clown a l’air très motivé de vous provoquer en combat, mais dans quel but ?\n\nSon {{blacephalonName}} est très étrange, comme s’il possédait @[TOOLTIP_TITLE]{des types et un talent inhabituels.}",
+  "description": "Quelque chose semble louche. Ce Clown a l’air très motivé à vous provoquer en combat, mais dans quel but ?\n\nSon {{blacephalonName}} est très étrange, comme s’il possédait @[TOOLTIP_TITLE]{des types et un talent inhabituels.}",
   "query": "Que voulez-vous faire ?",
   "option": {
     "1": {
@@ -12,7 +12,7 @@
       "selected": "Vos Pokémon sont prêts pour cette performance pathétique !",
       "apply_ability_dialogue": "Un spectacle sensationnel !\nVotre savoir-faire est en harmonie avec vos compétences !",
       "apply_ability_message": "Le Clown vous propose d’Échanger définitivement le talent d’un de vos Pokémon contre {{ability}} !",
-      "ability_prompt": "Voulez-vous définitivement donner le talent {{ability}} à un Pokémon ?",
+      "ability_prompt": "Voulez-vous définitivement donner le talent\n{{ability}} à un Pokémon ?",
       "ability_gained": "@s{level_up_fanfare}{{chosenPokemon}} obtient le talent {{ability}} !"
     },
     "2": {

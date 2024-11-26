@@ -4,6 +4,7 @@
   "title": "Diversão e Jogos!",
   "description": "Você encontrou um show itinerante com um jogo de prêmios! Você terá @[TOOLTIP_TITLE]{3 turnos} para deixar o {{wobbuffetName}} o mais próximo possível de @[TOOLTIP_TITLE]{1 PS} @[TOOLTIP_TITLE]{sem nocauteá-lo} para que ele possa carregar um grande Counter na máquina de tocar o sino.\nMas cuidado! Se você nocautear o {{wobbuffetName}}, terá que pagar o custo de revivê-lo!",
   "query": "Gostaria de jogar?",
+  "invalid_selection": "Esse Pokémon não pode jogar!",
   "option": {
     "1": {
       "label": "Jogar",

@@ -1,6 +1,7 @@
 {
   "title": "Modificatori delle sfide",
   "illegalEvolution": "{{pokemon}} non è più utilizzabile\nsecondo le regole della sfida!",
+  "noneSelected": "Nessuna selezione",
   "singleGeneration": {
     "name": "Mono gen",
     "desc": "Puoi usare solo Pokémon di {{gen}} generazione.",
@@ -23,6 +24,31 @@
   "freshStart": {
     "name": "Un nuovo inizio",
     "desc": "Puoi usare solo gli starter originali, e come se avessi appena cominciato Pokérogue.",
+    "value.0": "Off",
+    "value.1": "On"
+  },
+  "inverseBattle": {
+    "name": "Battaglia invertita",
+    "shortName": "Invertita",
+    "desc": "I vantaggi di tipo sono invertiti e le immunità sono eliminate.\nDisabilita gli obiettivi per le altre sfide.",
+    "value.0": "Off",
+    "value.1": "On"
+  },
+  "noAutoHeal": {
+    "name": "Niente cure gratis",
+    "desc": "Disabilita le cure gratuite che normalmente avvengono ogni 10 onde.",
+    "value.0": "Off",
+    "value.1": "On"
+  },
+  "hardcore": {
+    "name": "Hardcore",
+    "desc": "Non puoi revitalizzare i Pokémon esausti.",
+    "value.0": "Off",
+    "value.1": "On"
+  },
+  "limitedCatch": {
+    "name": "Catture limitate",
+    "desc": "Puoi catturare solo il primo Pokémon incontrato in ogni bioma.",
     "value.0": "Off",
     "value.1": "On"
   }

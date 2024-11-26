@@ -1,0 +1,21 @@
+{
+  "intro": "Es un {{shuckleName}} enorme y lo que parece\nser un gran alijo de... ¿zumo?",
+  "title": "De lo Bueno",
+  "description": "El {{shuckleName}} que bloquea tu camino parece formidable. Mientras tanto, el zumo a su lado emana algún tipo de poder.\n\nEl {{shuckleName}} extiende sus extremidades en tu dirección. Parece que quiere hacer algo...",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Acercarse al {{shuckleName}}",
+      "tooltip": "(?) Algo horrible o genial podría suceder",
+      "selected": "Te desmayas.",
+      "selected_2": "@f{150}Cuando despiertas, el {{shuckleName}} ha desaparecido\ny el alijo de zumo está completamente vacío.$¡{{highBstPokemon1}} y {{highBstPokemon2}}\nsienten una terrible letargia!$Sus estadísticas base se redujeron en {{reductionValue}}.$¡Sin embargo, tus Pokémon restantes sienten un vigor increíble!\nSus estadísticas base aumentaron en {{increaseValue}}."
+    },
+    "2": {
+      "label": "Enfrentarse al {{shuckleName}}",
+      "tooltip": "(-) Batalla Dura\n(+) Recompensas Especiales",
+      "selected": "¡Enfurecido, el {{shuckleName}} bebe algo de su zumo y ataca!",
+      "stat_boost": "¡El zumo del {{shuckleName}} aumenta sus estadísticas!"
+    }
+  },
+  "outro": "Qué giro de acontecimientos tan extraño."
+}

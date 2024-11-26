@@ -7,6 +7,7 @@
   "switchedStat": "{{pokemonName}} scambia la sua {{stat}} con quella del bersaglio!",
   "sharedGuard": "{{pokemonName}} somma le sue capacità difensive con quelle del bersaglio e le ripartisce equamente!",
   "sharedPower": "{{pokemonName}} somma le sue capacità offensive con quelle del bersaglio e le ripartisce equamente!",
+  "shiftedStats": "{{pokemonName}} scambia {{statToSwitch}} e {{statToSwitchWith}}!",
   "goingAllOutForAttack": "{{pokemonName}} fa sul serio!",
   "regainedHealth": "{{pokemonName}} s'è\nripreso!",
   "keptGoingAndCrashed": "{{pokemonName}} si sbilancia e\nsi schianta!",
@@ -68,7 +69,10 @@
   "chillyReception": "{{pokemonName}} sta per fare una battuta!",
   "exposedMove": "{{pokemonName}} ha identificato\n{{targetPokemonName}}!",
   "safeguard": "Salvaguardia protegge {{targetName}}!",
+  "substituteOnOverlap": "{{pokemonName}} ha già\nun sostituto!",
+  "substituteNotEnoughHp": "È troppo debole!\nNon può creare un sostituto!",
   "afterYou": "{{targetName}} approfitta della cortesia!",
   "combiningPledge": "Formidabile! Due mosse che diventano una!\nÈ una mossa combinata!",
-  "awaitingPledge": "{{userPokemonName}} sta aspettando\n{{allyPokemonName}}..."
+  "awaitingPledge": "{{userPokemonName}} sta aspettando\n{{allyPokemonName}}...",
+  "corrosiveGasItem": "{{pokemonName}} scioglie\n{{itemName}} di {{targetName}}!"
 }

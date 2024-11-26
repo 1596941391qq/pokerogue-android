@@ -3,7 +3,7 @@
   "title": "Session d’entrainement",
   "description": "Ce matériel semble pouvoir être utilisé pour entrainer un membre de votre équipe ! Il existe plusieurs moyens avec lesquels vous pourriez entrainer un Pokémon, comme @[TOOLTIP_TITLE]{en le combattant et le vainquant avec le reste de votre équipe}.",
   "query": "Quel entrainement choisir ?",
-  "invalid_selection": "Le Pokémon doit être en bonne santé.",
+  "invalid_selection": "Ce Pokémon ne peut pas combattre !",
   "option": {
     "1": {
       "label": "Léger",
@@ -20,7 +20,7 @@
       "label": "Intense",
       "tooltip": "(-) Combat intense le Pokémon choisi\n(+) Modifie définitivement le talent du Pokémon choisi",
       "select_prompt": "Sélectionnez le talent pour lequel\nvotre Pokémon doit s’entrainer.",
-      "finished": "{{selectedPokemon}} revient vers vous,\nl’air fatigué mais fier de lui !$Il a beaucoup changé possède\ndesormais le talent {{ability}} !"
+      "finished": "{{selectedPokemon}} revient vers vous,\nl’air fatigué mais fier de lui !$Il a beaucoup changé et possède\ndésormais le talent {{ability}} !"
     },
     "4": {
       "label": "Partir",

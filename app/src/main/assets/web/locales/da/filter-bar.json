@@ -1,0 +1,12 @@
+{
+  "typeFilter": "Type",
+  "ribbon": "Bånd",
+  "hasWon": "Bånd - Ja",
+  "hasNotWon": "Bånd - Nej",
+  "egg": "Æg",
+  "pokerus": "Pokérus",
+  "hasPokerus": "Pokérus - Ja",
+  "noPokerus": "Pokérus - Nej",
+  "sortByNumber": "No.",
+  "sortByName": "Navn"
+}

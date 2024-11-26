@@ -5,7 +5,7 @@
   "title": "兼职",
   "description": "似乎有不少活要干。\n根据你宝可梦对任务的适应度，\n你能获得或多或少的报酬。",
   "query": "你要干什么活？",
-  "invalid_selection": "宝可梦必须足够健康",
+  "invalid_selection": "这只宝可梦无法工作了！",
   "option": {
     "1": {
       "label": "外卖",

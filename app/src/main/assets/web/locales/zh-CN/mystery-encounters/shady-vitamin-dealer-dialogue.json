@@ -5,7 +5,7 @@
   "title": "营养饮料商人",
   "description": "男子打开外套，\n露出一些宝可梦营养饮料。\n他报出的数字非常划算。\n有点太划算了…\n他还提供两种套餐供你选择。",
   "query": "你要选哪一种？",
-  "invalid_selection": "宝可梦必须足够健康",
+  "invalid_selection": "这只宝可梦无法喝药！",
   "option": {
     "1": {
       "label": "经济套餐",

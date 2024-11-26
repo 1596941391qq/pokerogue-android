@@ -3,7 +3,7 @@
   "speaker": "Cliente",
   "intro_dialogue": "Bonjour !\nToi aussi t’es là pour les incroyables promos ?$Il y a un coupon spécial que tu peux utiliser en échange\nd’un objet gratuit pendant toute la durée de la promo !$J’en ai un en trop.\nTiens, prends-le !",
   "title": "Promos au Centre Commercial",
-  "description": "Tellement de choix que votre regard ne sait plus où se porter !\nIl y a 4 comptoirs auprès desquels vous pouvez dépenser ce coupon parmi une grande variété d’objets.",
+  "description": "Tellement de choix ! Votre regard ne sait plus où se porter !\nIl y a 4 comptoirs auprès desquels vous pouvez dépenser ce coupon parmi une grande variété d’objets.",
   "query": "À quel comptoir se rendre ?",
   "option": {
     "1": {

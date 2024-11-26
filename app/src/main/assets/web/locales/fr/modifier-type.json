@@ -40,7 +40,7 @@
       }
     },
     "PokemonPpUpModifierType": {
-      "description": "Augmente le max de PP de {{upPoints}} à une capacité d’un Pokémon pour chaque 5 PP max (max : 3)."
+      "description": "Augmente le max de PP de {{upPoints}} à une capacité d’un Pokémon pour chaque 5 PP max (max : 3)."
     },
     "PokemonNatureChangeModifierType": {
       "name": "Aromate {{natureName}}",
@@ -50,7 +50,7 @@
       "description": "Quadruple les chances de tomber sur un combat double pendant {{battleCount}} combats."
     },
     "TempStatStageBoosterModifierType": {
-      "description": "Augmente {{amount}} {{stat}} de toute l’équipe pendant 5 combats.",
+      "description": "Augmente {{amount}} {{stat}} de toute l’équipe pendant 5 combats.",
       "extra": {
         "stage": "d’un cran",
         "percentage": "de 30%"
@@ -109,7 +109,7 @@
       "description": "Augmente de {{accuracyAmount}} la précision des capacités (maximum 100)."
     },
     "PokemonMultiHitModifierType": {
-      "description": "Frappe une fois de plus en échange d’une baisse de puissance de respectivement 60/75/82,5% par cumul."
+      "description": "Le porteur convertit 25% des dégâts d’une attaque en frappe supplémentaire."
     },
     "TmModifierType": {
       "name": "CT{{moveId}} - {{moveName}}",
@@ -164,7 +164,7 @@
     },
     "MAP": {
       "name": "Carte",
-      "description": "Vous permet de choisir votre destination à un croisement."
+      "description": "Vous permet d’avoir le choix de votre prochaine destination à la fin de chaque biome."
     },
     "POTION": {
       "name": "Potion"
@@ -199,7 +199,7 @@
     },
     "WHITE_HERB": {
       "name": "Herbe Blanche",
-      "description": "Restaure toute stat ayant subi une baisse en combat."
+      "description": "À faire tenir. Restaure toute statistique subissant une baisse en combat."
     },
     "ETHER": {
       "name": "Huile"
@@ -274,7 +274,7 @@
     },
     "LEEK": {
       "name": "Poireau",
-      "description": "À faire tenir à Canarticho ou Palarticho. Un poireau très long et solide qui augmente de 2 crans le taux de critiques."
+      "description": "À faire tenir à Canarticho ou Palarticho. Un poireau très long et solide qui augmente de 2 crans le taux de critiques."
     },
     "EVIOLITE": {
       "name": "Évoluroc",
@@ -374,6 +374,10 @@
       "name": "Charme Talent",
       "description": "Augmente énormément les chances de rencontrer un Pokémon sauvage avec un talent caché."
     },
+    "CATCHING_CHARM": {
+      "name": "Charme Capture",
+      "description": "Augmente les chances d’effectuer une capture critique."
+    },
     "IV_SCANNER": {
       "name": "Scanner d’IV",
       "description": "Révèle la qualité de deux IV d’un Pokémon sauvage par scanner possédé. Les meilleurs IV sont révélés en priorité."
@@ -386,7 +390,7 @@
     },
     "GOLDEN_POKEBALL": {
       "name": "Poké Ball Dorée",
-      "description": "Ajoute un choix d’objet à la fin de chaque combat"
+      "description": "Ajoute un choix d’objet à la boutique gratuite."
     },
     "ENEMY_DAMAGE_BOOSTER": {
       "name": "Jeton Dégâts",
@@ -459,12 +463,12 @@
     }
   },
   "TempStatStageBoosterItem": {
-    "x_attack": "Attaque +",
-    "x_defense": "Défense +",
-    "x_sp_atk": "Atq. Spé. +",
-    "x_sp_def": "Déf. Spé. +",
-    "x_speed": "Vitesse +",
-    "x_accuracy": "Précision +"
+    "x_attack": "Attaque +",
+    "x_defense": "Défense +",
+    "x_sp_atk": "Atq. Spé. +",
+    "x_sp_def": "Déf. Spé. +",
+    "x_speed": "Vitesse +",
+    "x_accuracy": "Précision +"
   },
   "AttackTypeBoosterItem": {
     "silk_scarf": "Mouchoir Soie",

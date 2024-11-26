@@ -1,0 +1,26 @@
+{
+  "intro": "Du bliver stoppet af en dreng som ser rig ud.",
+  "speaker": "Rich Boy",
+  "intro_dialogue": "God dag til dig. $Jeg kan ikke undgå at lægge mærke til at din\n{{strongestPokemon}} ser helt guddommelig ud! $Jeg har altid ønsket mig en Pokémon som den!$Jeg ville betale dig meget god, og også give dig denne gamle ting!",
+  "title": "Et Tilbud Du Ikke Kan Sige Nej Til",
+  "description": "Du bliver tilbudt en@[TOOLTIP_TITLE]{ {{itemName}}} og {{price, money}} for din {{strongestPokemon}}!\n\nDet er en ekstremt god handel, men kan du virkelig bære at give afkald på så stærkt et medlem af dit hold?",
+  "query": "Hvad vil du gøre?",
+  "option": {
+   "1": {
+     "label": "Accepter handlen",
+     "tooltip": "(-) Mist {{strongestPokemon}}\n(+) Få en@[TOOLTIP_TITLE]{ {{itemName}}}\n(+) Få {{price, money}}",
+     "selected": "Vidunderligt!@d{32} Kom med, {{strongestPokemon}}!$Det er tid til at vise dig frem til alle i yacht klubben! $De bliver så jaloux!"
+    },
+   "2": {
+     "label": "Afpres barnet",
+     "tooltip": "(+) {{option2PrimaryName}} bruger {{moveOrAbility}}\n(+) Få {{price, money}}",
+     "tooltip_disabled": "Din Pokémon skal have bestemte angreb eller Abilities for at du kan vælge dette",
+     "selected": "Du godeste, vi bliver berøvet, {{liepardName}}! $Du vil høre fra mine advokater om dette!"
+    },
+    "3": {
+     "label": "Gå din vej",
+     "tooltip": "(-) Ingen gevindst",
+     "selected": "Sikken en rodden dag...$Ligemeget. Lad os tage tilbage til yacht klubben, {{liepardName}}."
+    }
+  }
+}

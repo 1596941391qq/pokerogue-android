@@ -73,5 +73,6 @@
   "substituteNotEnoughHp": "Mas não tem PS suficientes\npara fazer um substituto!",
   "afterYou": "{{targetName}} aceitou a gentil oferta!",
   "combiningPledge": "Os dois movimentos se juntaram!\nÉ um ataque combinado!",
-  "awaitingPledge": "{{userPokemonName}} está esperando pelo movimento de {{allyPokemonName}}..."
+  "awaitingPledge": "{{userPokemonName}} está esperando pelo movimento de {{allyPokemonName}}...",
+  "corrosiveGasItem": "{{pokemonName}} corroeu o(a) {{itemName}} de {{targetName}} !"
 }

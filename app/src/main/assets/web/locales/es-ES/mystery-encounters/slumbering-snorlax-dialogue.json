@@ -1,0 +1,25 @@
+{
+  "intro": "Al caminar por un camino estrecho, ves una silueta imponente bloqueando tu camino.$Te acercas y ves un {{snorlaxName}} durmiendo pacíficamente.\nParece que no hay forma de rodearlo.",
+  "title": "{{snorlaxName}} Durmiente",
+  "description": "Podrías atacarlo para intentar que se mueva, o simplemente esperar a que se despierte. Aunque, ¿quién sabe cuánto tiempo podría tardar...?",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Enfrentarse",
+      "tooltip": "(-) Luchar contra el {{snorlaxName}} durmiente\n(+) Recompensa especial",
+      "selected": "Te acercas al\nPokémon sin miedo."
+    },
+    "2": {
+      "label": "Esperar a que se mueva",
+      "tooltip": "(-) Esperar mucho tiempo\n(+) Tu equipo se recupera",
+      "selected": ".@d{32}.@d{32}.@d{32}$Esperas un rato, pero los bostezos de {{snorlaxName}} hacen que tu equipo se sienta somnoliento...",
+      "rest_result": "Cuando todos despiertan, {{snorlaxName}} no está por ningún lado...\n¡pero tus Pokémon están completamente curados!"
+    },
+    "3": {
+      "label": "Robar su Objeto",
+      "tooltip": "(+) {{option3PrimaryName}} usa {{option3PrimaryMove}}\n(+) Recompensa especial",
+      "disabled_tooltip": "Tus Pokémon necesitan conocer ciertos movimientos para elegir esto",
+      "selected": "¡Tu {{option3PrimaryName}} usa {{option3PrimaryMove}}!$¡@s{item_fanfare}Roba Restos del {{snorlaxName}} durmiente y corréis como el viento!"
+    }
+  }
+}

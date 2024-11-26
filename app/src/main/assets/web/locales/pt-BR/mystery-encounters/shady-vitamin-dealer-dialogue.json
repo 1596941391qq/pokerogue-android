@@ -5,7 +5,7 @@
   "title": "O Vendedor de Vitaminas",
   "description": "O homem abre o casaco para revelar algumas vitaminas de Pokémon. Os preços que ele menciona parecem uma boa oferta. Quase boa demais...\nEle oferece dois pacotes de ofertas para você escolher.",
   "query": "Qual oferta você vai escolher?",
-  "invalid_selection": "O Pokémon precisa estar saudável o suficiente.",
+  "invalid_selection": "Esse Pokémon não pode receber nada!",
   "option": {
     "1": {
       "label": "A Oferta Barata",

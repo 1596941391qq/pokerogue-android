@@ -1,0 +1,28 @@
+{
+  "intro": "Una mujer sombría bloquea tu camino.\nAlgo sobre ella es inquietante...",
+  "speaker": "Mujer",
+  "intro_dialogue": "He visto tus futuros, tus pasados... $Niño, ¿los ves tú también?",
+  "title": "¿¿??",
+  "description": "Las palabras de la mujer resuenan en tu cabeza. No era solo una voz singular, sino una vasta multitud, de todas las líneas temporales y realidades. Comienzas a sentirte mareado, la pregunta persiste en tu mente...\n\n@[TOOLTIP_TITLE]{\"He visto tus futuros, tus pasados… Niño, ¿los ves tú también?\"}",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "\"Los Veo\"",
+      "tooltip": "@[SUMMARY_GREEN]{(?) Afecta a tus Pokémon}",
+      "selected": "Extiende su mano para tocarte,\ny todo se vuelve negro.$Entonces...@d{64} Lo ves todo.\nCada línea temporal, todas tus diferentes versiones,\npasado y futuro.$Todo lo que te ha formado,\ntodo lo que llegarás a ser...@d{64}",
+      "cutscene": "Ves a tu Pokémon,@d{32} convergiéndose desde\ncada realidad para convertirse en algo nuevo...@d{64}",
+      "dream_complete": "Cuando despiertas, la mujer - ¿era una mujer o un fantasma? - se ha ido...$.@d{32}.@d{32}.@d{32}$Tu equipo Pokémon ha cambiado...\n¿O es el mismo equipo que siempre has tenido?"
+    },
+    "2": {
+      "label": "\"Enséñamelos\"",
+      "tooltip": "(-) Batalla Dura\n(+) Recompensas Geniales",
+      "selected": "Sientes que tu mente se desliza hacia un frío sueño.",
+      "selected_2": "@f{150}Cuando despiertas, eres confrontado por una figura extraña pero familiar..."
+    },
+    "3": {
+      "label": "Irse Rápidamente",
+      "tooltip": "(-) Afecta a tus Pokémon",
+      "selected": "Arrancas tu mente de un agarre entumecedor y te marchas apresuradamente.$Cuando finalmente te detienes para recuperarte, revisas los Pokémon en tu equipo.$¡Por alguna razón, todos sus niveles han disminuido!"
+    }
+  }
+}

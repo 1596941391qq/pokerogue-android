@@ -65,6 +65,8 @@
   "noEscapeForce": "Eine unsichtbare Kraft verhindert die Flucht.",
   "noEscapeTrainer": "Du kannst nicht aus einem Trainerkampf fliehen!",
   "noEscapePokemon": "{{moveName}} von {{pokemonName}} verhindert {{escapeVerb}}!",
+  "noEscapeSwitch": "Das Pokémon kann nicht ausgetauscht werden!",
+  "noEscapeFlee": "Das Pokémon kann nicht fliehen!",
   "runAwaySuccess": "Du bist entkommen!",
   "runAwayCannotEscape": "Flucht gescheitert!",
   "escapeVerbSwitch": "auswechseln",

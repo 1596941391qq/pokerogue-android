@@ -1,0 +1,9 @@
+{
+  "vouchers": "שוברים",
+  "eggVoucher": "שובר ביצים",
+  "eggVoucherPlus": "שובר משופר לביצים",
+  "eggVoucherPremium": "שובר פרימיום לביצים",
+  "eggVoucherGold": "שובר זהוב לביצים",
+  "locked": "נעול",
+  "defeatTrainer": "להביס את {{trainerName}}"
+}

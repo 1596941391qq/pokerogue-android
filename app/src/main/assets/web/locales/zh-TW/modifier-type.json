@@ -109,7 +109,7 @@
       "description": "招式命中率增加{{accuracyAmount}} (最大100)。"
     },
     "PokemonMultiHitModifierType": {
-      "description": "攻擊以60/75/82.5%的傷害造成2/3/4次傷害。"
+      "description": "將持有者本次傷害的25%轉化為一次獨立的攻擊。"
     },
     "TmModifierType": {
       "name": "招式學習器 {{moveId}} - {{moveName}}",

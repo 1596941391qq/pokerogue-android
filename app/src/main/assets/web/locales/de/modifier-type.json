@@ -109,7 +109,7 @@
       "description": "Erhöht die Genauigkeit der Angriffe um {{accuracyAmount}} (maximal 100)."
     },
     "PokemonMultiHitModifierType": {
-      "description": "Attacken treffen ein weiteres mal mit einer Reduktion von 60/75/82,5% der Stärke."
+      "description": "Wandelt 25 % des Schadens von den Attacken des Trägers in einen zusätzlichen Treffer um."
     },
     "TmModifierType": {
       "name": "TM{{moveId}} - {{moveName}}",
@@ -373,6 +373,10 @@
     "ABILITY_CHARM": {
       "name": "Fähigkeitspin",
       "description": "Erhöht die Chance deutlich, dass ein wildes Pokémon eine versteckte Fähigkeit hat."
+    },
+    "CATCHING_CHARM": {
+      "name": "Superfangpin",
+      "description": "Erhöht die Wahrscheinlichkeit einen Superfang hinzulegen."
     },
     "IV_SCANNER": {
       "name": "IS-Scanner",

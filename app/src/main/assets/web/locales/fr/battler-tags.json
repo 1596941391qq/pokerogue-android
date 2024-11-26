@@ -60,7 +60,7 @@
   "highestStatBoostOnAdd": "{{statName}} de {{pokemonNameWithAffix}}\nest renforcée !",
   "highestStatBoostOnRemove": "L’effet du talent {{abilityName}}\nde {{pokemonNameWithAffix}} se dissipe !",
   "magnetRisenOnAdd": "{{pokemonNameWithAffix}} lévite\nsur un champ magnétique !",
-  "magnetRisenOnRemove": "Le magnétisme de{{pokemonNameWithAffix}}\nse dissipe !",
+  "magnetRisenOnRemove": "Le magnétisme de {{pokemonNameWithAffix}}\nse dissipe !",
   "critBoostOnAdd": "{{pokemonNameWithAffix}}\nest prêt à tout donner !",
   "critBoostOnRemove": "{{pokemonNameWithAffix}} se détend.",
   "saltCuredOnAdd": "{{pokemonNameWithAffix}}\nest couvert de sel !",
@@ -82,5 +82,10 @@
   "syrupBombOnAdd": "{{pokemonNameWithAffix}} est recouvert\nde sirop !",
   "syrupBombLapse": "Le sirop baisse la Vitesse\nde {{pokemonNameWithAffix}} !",
   "telekinesisOnAdd": "Ça fait léviter {{pokemonNameWithAffix}} !",
-  "electrifiedOnAdd": "Électrisation donne le type Électrik à la prochaine capacité\nde {{pokemonNameWithAffix}} !"
+  "electrifiedOnAdd": "Électrisation donne le type Électrik à la prochaine capacité\nde {{pokemonNameWithAffix}} !",
+  "powerTrickActive": "{{pokemonNameWithAffix}} échange\nson Attaque et sa Défense !",
+  "powderOnAdd": "{{pokemonNameWithAffix}} est couvert\nde poudre !",
+  "powderLapse": "La nuée de poudre entre en réaction\navec {{moveName}} et explose !",
+  "grudgeOnAdd": "{{pokemonNameWithAffix}} veut\nque sa cible subisse sa rancune !",
+  "grudgeLapse": "La capacité {{moveName}} de\n{{pokemonNameWithAffix}} perd ses PP à cause de Rancune !"
 }

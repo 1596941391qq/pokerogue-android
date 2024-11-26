@@ -5,7 +5,7 @@
   "title": "Teilzeitjob",
   "description": "Es scheint, als gäbe es viele Aufgaben, die erledigt werden müssen. Je besser dein Pokémon für eine Aufgabe geeignet ist, desto mehr Geld kann es verdienen.",
   "query": "Welchen Job wählst du?",
-  "invalid_selection": "Das Pokémon muss genug KP haben.",
+  "invalid_selection": "Das Pokémon kann nicht arbeiten!",
   "option": {
     "1": {
       "label": "Lieferdienst",

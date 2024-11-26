@@ -1,7 +1,7 @@
 {
   "intro": "Quelque chose d’une lueur éclatante\nbrille sur le sol près de ce Pokémon !",
   "title": "Voler ou s’envoler",
-  "description": "Un puissant Pokémon semble monter la garde d’un objet. Vous pourriez aller frontalement au combat, mais il a l’air costaud. Avec le bon Pokémon, vous pourriez peut-être voler l’objet sans vous faire prendre ?",
+  "description": "Un puissant Pokémon semble monter la garde d’un objet. Vous pourriez aller frontalement au combat, mais il a l’air plutôt costaud. Avec le bon Pokémon, vous pourriez peut-être subtiliser l’objet sans vous faire prendre ?",
   "query": "Que voulez-vous faire ?",
   "option": {
     "1": {

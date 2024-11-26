@@ -31,7 +31,7 @@
   "releaseConfirmation": "Voulez-vous relâcher {{pokemonName}} ?",
   "releaseInBattle": "Vous ne pouvez pas relâcher un Pokémon en combat !",
   "selectAMove": "Sélectionnez une capacité.",
-  "changeQuantity": "Sélect. un objet à transférer.\nChangez la quantité avec < et >.",
+  "changeQuantity": "Sélectionnez un objet à transférer.\nChangez la quantité avec < et >.",
   "selectAnotherPokemonToSplice": "Sélectionnez un autre Pokémon à séparer.",
   "cancel": "Sortir",
   "able": "Apte",

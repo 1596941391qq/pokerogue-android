@@ -1,0 +1,22 @@
+{
+  "intro": "En underlig mand i en slidt frakke står i vejen for dig...",
+  "speaker": "Lyssky Fyr",
+  "intro_dialogue": "Hey, dig!$Jeg har arbejdet på min nyeste opfindelse, som kan bringe en Pokémons skjulte styrke!$Den binder en Pokémons atomer sammen på et molekylært niveau, og danner en langt mere kraftfuld form.$Hehe...@d{64} Jeg skal bare bruge et off-@d{32}\nØhhh, testobjekt, for at bevise at det virker.",
+  "title": "Mørk Handel",
+  "description": "Den foruroligende fyr holder nogle Poké Balls frem.\n\"Jeg skal nok gøre det din tid værd! Du kan få disse stærke Poké Balls some betaling, alt jeg skal bruge er bare en Pokémon fra dit hold! Hehe...\"",
+  "query": "Hvad vil du gøre?",
+  "option": {
+    "1": {
+      "label": "Accepter",
+      "tooltip": "(+) 5 Rogue Balls\n(?) Forstærk en tilfældig Pokémon",
+      "selected_dialogue": "Lad os se, den {{pokeName}} vil virke fint!$Husk, jeg er ikke ansvarlig\nhvis der sker noget slemt!@d{32} Hehe...",
+      "selected_message": "Manden giver dig 5 Rogue Balls.${{pokeName}} hopper ind i den underlige masking...$Der kommer blinkende lys og underlige lyde fra maskinen!$...@d{96} Noget kommer ud fra maskinen og raser vildt!"
+    },
+    "2": {
+      "label": "Nægt",
+      "tooltip": "(-) Ingen gevindster",
+      "selected": "Du vil ikke hjælpe en stakkels fyr?\nPah!"
+    }
+  },
+  "outro": "Efter dette rystende møde samler du dig selv og fortsætter."
+}

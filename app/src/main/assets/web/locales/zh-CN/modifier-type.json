@@ -70,7 +70,7 @@
     },
     "PokemonBaseStatTotalModifierType": {
       "name": "壶壶果汁",
-      "description": "{{increaseDecrease}}持有者的所有基础属性{{statValue}}级。你被壶壶{{blessCurse}}了。",
+      "description": "{{increaseDecrease}}持有者的所有基础属性{{statValue}}。你被壶壶{{blessCurse}}了。",
       "extra": {
         "increase": "提升",
         "decrease": "降低",
@@ -109,7 +109,7 @@
       "description": "招式命中率增加{{accuracyAmount}}(最大100)。"
     },
     "PokemonMultiHitModifierType": {
-      "description": "伤害降低60/75/82.5%的同时造成2/3/4次伤害。"
+      "description": "将持有者本次伤害的25%转化为一次独立的攻击。"
     },
     "TmModifierType": {
       "name": "招式学习器\n{{moveId}} - {{moveName}}",
@@ -266,11 +266,11 @@
       "name": "焦点镜",
       "description": "能看见弱点的镜片。携带它的宝可梦的招式\n会变得容易击中要害。"
     },
-    "DIRE_HIT": { 
-      "name": "要害攻击", 
-      "extra": { 
+    "DIRE_HIT": {
+      "name": "要害攻击",
+      "extra": {
         "raises": "会心"
-      } 
+      }
     },
     "LEEK": {
       "name": "大葱",
@@ -374,6 +374,10 @@
       "name": "特性护符",
       "description": "显著增加野生宝可梦有隐藏特性的概率。"
     },
+    "CATCHING_CHARM": {
+      "name": "捕获护符",
+      "description": "增加关键捕获的几率。"
+    },
     "IV_SCANNER": {
       "name": "个体值探测器",
       "description": "允许扫描野生宝可梦的个体值。每多拥有一个\n多显示两项个体值，优先显示最高项。"
@@ -420,12 +424,25 @@
       "name": "融合硬币",
       "description": "增加1%野生融合宝可梦出现概率。"
     },
-
-    "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": { "name": "壶壶果汁" },
-    "MYSTERY_ENCOUNTER_BLACK_SLUDGE": { "name": "黑色污泥", "description": "由于恶臭扑鼻，商店会以非常高昂的价格向您出售商品。" },
-    "MYSTERY_ENCOUNTER_MACHO_BRACE": { "name": "强制锻炼器", "description": "击败对手后获得一层锻炼等级。每层会略微提升属性，\n达到最大层数时还会获得额外奖励。" },
-    "MYSTERY_ENCOUNTER_OLD_GATEAU": { "name": "森之羊羔", "description": "提升持有者的{{stats}}的{{statValue}}。" },
-    "MYSTERY_ENCOUNTER_GOLDEN_BUG_NET": { "name": "金捕虫网", "description": "赋予主人好运，使其更容易\n找到虫属性宝可梦，手感很奇妙。" }
+    "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
+      "name": "壶壶果汁"
+    },
+    "MYSTERY_ENCOUNTER_BLACK_SLUDGE": {
+      "name": "黑色污泥",
+      "description": "由于恶臭扑鼻，商店会以非常高昂的价格向您出售商品。"
+    },
+    "MYSTERY_ENCOUNTER_MACHO_BRACE": {
+      "name": "强制锻炼器",
+      "description": "击败对手后获得一层锻炼等级。每层会略微提升属性，\n达到最大层数时还会获得额外奖励。"
+    },
+    "MYSTERY_ENCOUNTER_OLD_GATEAU": {
+      "name": "森之羊羔",
+      "description": "提升持有者的{{stats}}的{{statValue}}。"
+    },
+    "MYSTERY_ENCOUNTER_GOLDEN_BUG_NET": {
+      "name": "金捕虫网",
+      "description": "赋予主人好运，使其更容易\n找到虫属性宝可梦，手感很奇妙。"
+    }
   },
   "SpeciesBoosterItem": {
     "LIGHT_BALL": {
@@ -514,7 +531,6 @@
     "LEADERS_CREST": "头领凭证",
     "SUN_FLUTE": "太阳之笛",
     "MOON_FLUTE": "月亮之笛",
-    
     "CHIPPED_POT": "缺损的茶壶",
     "BLACK_AUGURITE": "黑奇石",
     "GALARICA_CUFF": "伽勒豆蔻手环",

@@ -1,0 +1,33 @@
+{
+  "stench": {
+    "name": "Koku",
+    "description": "Kotu koku salarak savaşıyor, bu rakibi çekinme ihtimal var."
+  },
+  "drizzle": {
+    "name": "Çiselemek",
+    "description": "Bu Pokémon savaşa girdi zaman yağmur yağıyor."
+  },
+  "speedBoost": {
+    "name": "Hız Artırmak",
+    "description": "Her sırada Hızı artıyor."
+  },
+  "sturdy": {
+    "name": "Sağlam",
+    "description": "Bir atakli bayiamaz. Tek vuruş hareketle bayılamaz."
+  },
+  "damp": {
+    "name": "Nemli"
+  },
+  "static": {
+    "name": "Statik"
+  },
+  "insomnia": {
+    "name": "Uykusuz"
+  },
+  "colorChange": {
+    "name": "Renk Deişmek"
+  },
+  "hugePower": {
+    "name": "Büyük Güç"
+  }
+}

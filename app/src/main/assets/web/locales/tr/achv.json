@@ -1,0 +1,92 @@
+{
+  "Achievements": {
+    "name": "Başarımlar"
+  },
+  "Locked": {
+    "name": "Kilitli"
+  },
+  "MoneyAchv": {
+    "description": "Toplam ₽{{moneyAmount}} biriktir"
+  },
+  "10K_MONEY": {
+    "name": "Para sahibi",
+    "name_female": "Para sahibi"
+  },
+  "100K_MONEY": {
+    "name": "Zengin",
+    "name_female": "Zengin"
+  },
+  "1M_MONEY": {
+    "name": "Milyoner",
+    "name_female": "Milyoner"
+  },
+  "10M_MONEY": {
+    "name": "Yüzde Birlik",
+    "name_female": "Yüzde Birlik"
+  },
+  "DamageAchv": {
+    "description": "Tek vuruşta {{damageAmount}} hasar ver"
+  },
+  "250_DMG": {
+    "name": "Sert Vuran"
+  },
+  "1000_DMG": {
+    "name": "Daha Ser Vuran",
+    "name_female": "Daha Ser Vuran"
+  },
+  "2500_DMG": {
+    "name": "Çok Fazla Hasar!",
+    "name_female": "Çok Fazla Hasar!"
+  },
+  "10000_DMG": {
+    "name": "Tek Yumruk Adam",
+    "name_female": "Tek Yumruk Kadın"
+  },
+  "HealAchv": {
+    "description": "Bir haraket, özellik yada eşya ile {{healAmount}} {{HP}} iyileştir"
+  },
+  "250_HEAL": {
+    "name": "Acemi Şifacı",
+    "name_female": "Acemi Şifacı"
+  },
+  "1000_HEAL": {
+    "name": "Büyük Şifacı",
+    "name_female": "Büyük Şifacı"
+  },
+  "2500_HEAL": {
+    "name": "Rahip",
+    "name_female": "Rahip"
+  },
+  "10000_HEAL": {
+    "name": "İyileşme Ustası",
+    "name_female": "İyileşme Ustası"
+  },
+  "LevelAchv": {
+    "description": "Bir Pokémonu Sv. {{level}}e getir"
+  },
+  "LV_100": {
+    "name": "Ama bekle, Dahası var!"
+  },
+  "LV_250": {
+    "name": "Elit",
+    "name_female": "Elit"
+  },
+  "LV_1000": {
+    "name": "Daha İleriye Gitmek İçin"
+  },
+  "RibbonAchv": {
+    "description": "Toplam {{ribbonAmount}} Kurdeleye Sahip Ol"
+  },
+  "10_RIBBONS": {
+    "name": "Pokémon Ligi Şanmpiyonu",
+    "name_female": "Pokémon Ligi Şanmpiyonu"
+  },
+  "25_RIBBONS": {
+    "name": "Süper Lig Şampiyonu",
+    "name_female": "Süper Lig Şampiyonu"
+  },
+  "50_RIBBONS": {
+    "name": "Ultra Lig Şampiyonu",
+    "name_female": "Ultra Lig Şampiyonu"
+  }
+}

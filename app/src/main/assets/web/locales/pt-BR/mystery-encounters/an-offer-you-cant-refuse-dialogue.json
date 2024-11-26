@@ -3,12 +3,12 @@
   "speaker": "Garoto Rico",
   "intro_dialogue": "Bom dia para você.$Não pude deixar de notar que seu\n{{strongestPokemon}} parece absolutamente divino!$Sempre quis ter um Pokémon assim!$Eu te pagaria generosamente,\ne também te daria este velho amuleto!",
   "title": "Uma Oferta Irrecusável",
-  "description": "Você está sendo oferecido um @[TOOLTIP_TITLE]{Amuleto Brilhante} e {{price, money}} pelo seu {{strongestPokemon}}!\n\nÉ um negócio extremamente bom, mas será que você pode realmente se desfazer de um membro tão forte do seu time?",
+  "description": "Você está sendo oferecido um@[TOOLTIP_TITLE]{ {{itemName}}} e {{price, money}} pelo seu {{strongestPokemon}}!\n\nÉ um negócio extremamente bom, mas será que você pode realmente se desfazer de um membro tão forte do seu time?",
   "query": "O que você vai fazer?",
   "option": {
     "1": {
       "label": "Aceitar o Acordo",
-      "tooltip": "(-) Perder {{strongestPokemon}}\n(+) Ganhar um @[TOOLTIP_TITLE]{Amuleto Brilhante}\n(+) Ganhar {{price, money}}",
+      "tooltip": "(-) Perder {{strongestPokemon}}\n(+) Ganhar um@[TOOLTIP_TITLE]{ {{itemName}}}\n(+) Ganhar {{price, money}}",
       "selected": "Maravilhoso!@d{32} Venha comigo, {{strongestPokemon}}!$É hora de mostrá-lo para todos no clube de iates!$Eles ficarão com tanta inveja!"
     },
     "2": {

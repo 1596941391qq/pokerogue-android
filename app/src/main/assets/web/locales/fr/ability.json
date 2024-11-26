@@ -833,7 +833,7 @@
   },
   "disguise": {
     "name": "Fantômasque",
-    "description": "Le déguisement qui recouvre le corps du Pokémon est capable de le protéger d’une attaque."
+    "description": "Une fois par combat, le déguisement qui recouvre le corps du Pokémon est capable de le protéger d’une attaque."
   },
   "battleBond": {
     "name": "Synergie",

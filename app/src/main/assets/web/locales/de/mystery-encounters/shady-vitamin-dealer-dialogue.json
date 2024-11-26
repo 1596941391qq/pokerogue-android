@@ -5,7 +5,7 @@
   "title": "Der Nährstoff-Verkäufer",
   "description": "Der Mann öffnet seinen Mantel und zeigt dir einige Pokémon-Nährstoffe. Die Preise, die er nennt, scheinen ein wirklich gutes Angebot zu sein. Fast zu gut...\nEr bietet dir zwei Möglichkeiten zur Auswahl an.",
   "query": "Welches Angebot wirst du wählen?",
-  "invalid_selection": "Pokémon must be healthy enough.",
+  "invalid_selection": "Dieses Pokémon kann keine erhalten!",
   "option": {
     "1": {
       "label": "Der billige Deal",

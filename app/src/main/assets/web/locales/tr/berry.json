@@ -1,0 +1,35 @@
+{
+  "SITRUS": {
+    "name": "Sitrus Meyvesi"
+  },
+  "LUM": {
+    "name": "Lum Meyvesi"
+  },
+  "ENIGMA": {
+    "name": "Enigma Meyvesi"
+  },
+  "LIECHI": {
+    "name": "Liechi Meyvesi"
+  },
+  "GANLON": {
+    "name": "Ganlon Meyvesi"
+  },
+  "PETAYA": {
+    "name": "Petaya Meyvesi"
+  },
+  "APICOT": {
+    "name": "Apicot Meyvesi"
+  },
+  "SALAC": {
+    "name": "Salac Meyvesi"
+  },
+  "LANSAT": {
+    "name": "Lansat Meyvesi"
+  },
+  "STARF": {
+    "name": "Starf Meyvesi"
+  },
+  "LEPPA": {
+    "name": "Lappa Meyvesi"
+  }
+}

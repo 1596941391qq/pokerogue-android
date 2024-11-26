@@ -184,7 +184,32 @@
   },
   "twins": {
     "encounter": {
-      "1": "Tiens-toi prêt, car quand on fait équipe,\nc'est deux fois plus les problèmes !"
+      "1": "Tiens-toi prêt, car quand on fait équipe,\nc'est deux fois plus les problèmes !",
+      "2": "Deux âmes, une stratégie !\nVoyons si tu fais face à notre pouvoir gémellaire !",
+      "3": "Tiens-toi prêt à suer, car la température est sur le point de doubler !",
+      "3_female": "Tiens-toi prête à suer, car la température est sur le point de doubler !"
+    },
+    "victory": {
+      "1": "Même dans la défaite, nos âmes restent inséparables !",
+      "2": "Ne pense pas que cette défaite va briser nos liens…",
+      "3": "Notre duo de choc aura sa revanche !\nCompte sur nous là-dessus !"
+    },
+    "defeat": {
+      "1": "Notre pouvoir gémellaire règne en maitre !",
+      "2": "Deux âmes, une seule victoire !",
+      "3": "Deux sourires pour deux fois plus de célébrations !"
+    }
+  },
+  "cyclist": {
+    "encounter": {
+      "1": "Prépare-toi à manger la poussière !",
+      "2": "Passe à la vitesse supérieure, sinon je vais te laisser sur le carreau !",
+      "3": "Allez, mouline plus vite !\nVoyons si t'arrives à tenir la cadence !"
+    },
+    "victory": {
+      "1": "Le terrain était mauvais pour moi.",
+      "2": "Devancé !",
+      "3": "Le chemin vers la victoire a toujours ses pentes et ses côtes."
     }
   },
   "snow_worker": {
@@ -207,6 +232,43 @@
     },
     "defeat": {
       "1": "…\n… Tu-tu-tu sais quoi ?\n… Il fait su-super froid i-ici."
+    }
+  },
+  "mars": {
+    "encounter": {
+      "1": "Je suis Mars, une des Admins\nde la Team Galaxie.",
+      "2": "La vision d’avenir de la Team Galaxie est parfaite.\nToute opposition sera réprimée sans pitié !",
+      "3": "Pas trop nerveux ?\nTu devrais !",
+      "3_female": "Pas trop nerveuse ?\nTu devrais !"
+    },
+    "victory": {
+      "1": "Non… C’est une blague, c’est ça ?\nMais comment c’est possible ?!",
+      "2": "T’as du talent, je te l’accorde.",
+      "3": "Et voilà, j'ai encore perdu…"
+    }
+  },
+  "jupiter": {
+    "encounter": {
+      "1": "Enchantée, Jupiter.\nAdmin de la Team Galaxie, à ton service.",
+      "2": "Tout résistance est inutile.\nLa Team Galaxie prévaudra !",
+      "3": "T'arrêtes pas de trembler.\nDéjà peur ?"
+    },
+    "victory": {
+      "1": "Comment oses-tu ?!",
+      "2": "C’est vrai que tu te débrouilles pas mal…",
+      "3": "Ma négligence me coute cher."
+    }
+  },
+  "saturn": {
+    "encounter": {
+      "1": "Je suis Saturne,\nAdmin de la Team Galaxie.",
+      "2": "La missionde la Team Galaxie est absolue.\nToute obstacle sera exterminé !",
+      "3": "C’est de la peur que je perçois dans tes yeux ?"
+    },
+    "victory": {
+      "1": "Impossible…\nBattu ? Par toi ?!",
+      "2": "T’es un adversaire à la hauteur, je te l’accorde.",
+      "3": "Grrr… Impressionnant !"
     }
   },
   "rocket_grunt": {
@@ -612,6 +674,72 @@
       "1": "Les ignorants sans aucune vision n’auront donc de cesse de souiller ce monde."
     }
   },
+  "aether_boss_lusamine_1": {
+    "encounter": {
+      "1": "Ne vois-tu pas que vous faites de la peine à\nma pauvre Ultra-Chimère ?$Je vais devoir te réduire au silence…"
+    },
+    "victory": {
+      "1": "Quelle cruauté !"
+    },
+    "defeat": {
+      "1": "Grrr…"
+    }
+  },
+  "aether_boss_lusamine_2": {
+    "encounter": {
+      "1": "Pourquoi diable dois-je me coltiner ton visage ingrat,\noù que j’aille ?!$Je ne sais même pas pourquoi je continue\ndiscuter avec toi…$Zéroïd va te prouver le contraire et te réduire en miettes !"
+    },
+    "victory": {
+      "1": "Aaaaah !"
+    },
+    "defeat": {
+      "1": "Cette Ultra-Chimère est la seule chose qui compte\nà mes yeux ! Tu peux disparaitre, cela m’est égal !"
+    }
+  },
+  "skull_boss_guzma_1": {
+    "encounter": {
+      "1": "Place au boss que tout le monde déteste,\ncelui qui adore éclater des têtes…$Bling bling et sapes de marque,\nc’est Guzma qui débarque !"
+    },
+    "victory": {
+      "1": "Toi… Un jour ou l’autre, j’te ferai ta fête…"
+    },
+    "defeat": {
+      "1": "Et donc, tu es venu tout seul comme\nun gentil petit Ponchiot…"
+    }
+  },
+  "skull_boss_guzma_2": {
+    "encounter": {
+      "1": "J’prends tout le monde sans exception !\nC’est ça d’être un boss !"
+    },
+    "victory": {
+      "1": "Guzma, mais tu nous as fait quoi là ?!"
+    },
+    "defeat": {
+      "1": "Toi, là…\nTu s’rais pas un peu timbré sur les bords ?"
+    }
+  },
+  "macro_boss_rose_1": {
+    "encounter": {
+      "1": "J’œuvre pour la prospérité de ma très chère région\nde Galar en exploitant une source infinie d’énergie.$Rien de plus, rien de moins."
+    },
+    "victory": {
+      "1": "Il se passera quelque chose d’historique, oui…\nCela, je peux te le promettre."
+    },
+    "defeat": {
+      "1": "Décidément, tu n’y comprends vraiment rien !"
+    }
+  },
+  "macro_boss_rose_2": {
+    "encounter": {
+      "1": "Je suis dévoué à la recherche d’une solution aux\nproblèmes énergétiques de Galar et du monde.$Mon expérience et les succès qui ont fait la réussite de\nMacro Cosmos prouvent l’efficacité de mes méthodes.$Ma décision est définitive, qu’importe l’issue\nde cet affrontement."
+    },
+    "victory": {
+      "1": "J’avais oublié à quel point les combats Pokémon\npouvaient être exaltants !$J’accepte ma défaite, pour cette fois."
+    },
+    "defeat": {
+      "1": "C’est probablement difficile à comprendre pour toi,\nmais ce que je fais n’est en rien une mauvaise chose.$J’œuvre pour la prospérité de ma très chère région\nde Galar en exploitant une source infinie d’énergie."
+    }
+  },
   "star_boss_penny_1": {
     "encounter": {
       "1": "Je suis la Big Boss de la Team Star, Cassiopée…\n$Incline-toi devant la toute-puissance de la Big Boss !!!"
@@ -680,6 +808,7 @@
   "stat_trainer_mira": {
     "encounter": {
       "1": "Maïté va t’éblouir !",
+      "1_female": "Maïté va t’éblouir !",
       "2": "Je vais te prouver que je ne me mélange plus les pédales !"
     },
     "victory": {
@@ -835,6 +964,23 @@
       "2_female": "Oh non… Mes Pokémon Plante ont l’air de t’avoir bien endormie…",
       "3": "Ce combat était si apaisant…",
       "4": "Oh non… C’est tout ?"
+    }
+  },
+  "janine": {
+    "encounter": {
+      "1": "Je suis maitresse dans l’art des capacités Poison !\nÇa te dis de t'entrainer avec moi ?\n",
+      "2": "Mon père est persuadé que je peux m'en tirer seule !\nEt je vais lui prouver !",
+      "3": "Ma technique est presque aussi parfaite que celle\nde mon père ! Tu penses pouvoir suivre ?"
+    },
+    "victory": {
+      "1": "Je vais m’entrainer plus, pour devenir encore plus forte.",
+      "2": "Ta technique surpasse clairement la mienne.",
+      "3": "À l’avenir je m’appliquerai à vraiment améliorer mes capacités."
+    },
+    "defeat": {
+      "1": "Hahaha…\nLe poison a vraiment aspiré toute ton énergie.",
+      "2": "Je suis Jeannine…\nSouviens-toi bien de mon nom !",
+      "3": "Sa confiance en moi était donc justifiée."
     }
   },
   "alder": {

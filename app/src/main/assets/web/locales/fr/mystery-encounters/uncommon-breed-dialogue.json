@@ -1,5 +1,5 @@
 {
-  "intro": "C’est un Pokémon tout ce qu’il y a de plus banal !",
+  "intro": "Ce Pokémon semble peu banal !",
   "title": "Une forme peu commune",
   "description": "Ce {{enemyPokemon}} a l’air spécial par rapport au reste de son espèce. @[TOOLTIP_TITLE]{Peut-être connait-il une capacité particulière ?} Vous pourriez décider de l’affronter sur-le-champ, mais il y a peut-être moyen d’en faire un nouvel ami.",
   "query": "Que voulez-vous faire ?",

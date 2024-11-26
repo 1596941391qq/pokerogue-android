@@ -1,0 +1,33 @@
+{
+  "intro": "Te has encontrado algunas\nherramientas y suministros para entrenar.",
+  "title": "Sesión de Entrenamiento",
+  "description": "¡Estos suministros parecen que podrían usarse para entrenar a un miembro de tu equipo! Hay algunas formas de entrenar a tu Pokémon, @[TOOLTIP_TITLE]{luchando y derrotándolo con el resto de tu equipo}.",
+  "query": "¿Cómo deberías entrenar?",
+  "invalid_selection": "Los Pokémon deben estar lo suficientemente saludables.",
+  "option": {
+    "1": {
+      "label": "Entrenamiento Ligero",
+      "tooltip": "(-) Batalla Ligera con el Pokémon elegido\n(+) Mejora permanentemente 2 IVs aleatorios del Pokémon elegido",
+      "finished": "{{selectedPokemon}} regresa, sintiéndose\nagotado pero satisfecho.$¡Sus IV de {{stat1}} y {{stat2}} han mejorado!"
+    },
+    "2": {
+      "label": "Entrenamiento Moderado",
+      "tooltip": "(-) Batalla Moderada con el Pokémon elegido\n(+) Cambia permanentemente la naturaleza del Pokémon elegido",
+      "select_prompt": "Selecciona una nueva naturaleza\npara entrenar a tu Pokémon.",
+      "finished": "{{selectedPokemon}} regresa, sintiéndose\nagotado pero satisfecho.$¡Su naturaleza ha cambiado a {{nature}}!"
+    },
+    "3": {
+      "label": "Entrenamiento Pesado",
+      "tooltip": "(-) Batalla Ardua con el Pokémon elegido\n(+) Cambia permanentemente la Habilidad del Pokémon elegido",
+      "select_prompt": "Selecciona una nueva habilidad\npara entrenar a tu Pokémon.",
+      "finished": "¡{{selectedPokemon}} regresa, sintiéndose\nagotado pero satisfecho!$Su habilidad fue cambiada a {{ability}}!"
+    },
+    "4": {
+      "label": "Irse",
+      "tooltip": "(-) Ninguna Recompensa",
+      "selected": "No tienes tiempo para entrenar.\nEs hora de seguir adelante."
+    },
+    "selected": "{{selectedPokemon}} se mueve a través\ndel claro para enfrentarte..."
+  },
+  "outro": "¡Esa fue una sesión de entrenamiento exitosa!"
+}

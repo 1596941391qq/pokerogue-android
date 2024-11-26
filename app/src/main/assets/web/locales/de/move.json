@@ -2629,7 +2629,7 @@
   },
   "catastropika": {
     "name": "Perfektes Pika-Projektil",
-    "effect": "Pikachu umhüllt sich durch Z-Kraft mit gewaltiger elektrischer Energie und stürzt sich mit voller Kraft auf das Ziel."
+    "effect": "Der Anwender umhüllt sich durch Z-Kraft mit gewaltiger elektrischer Energie und stürzt sich mit voller Kraft auf das Ziel."
   },
   "shoreUp": {
     "name": "Sandsammler",
@@ -2805,7 +2805,7 @@
   },
   "extremeEvoboost": {
     "name": "Macht der Neun",
-    "effect": "Evoli macht sich durch Z-Kraft die Stärke seiner Weiterentwicklungen zunutze und erhöht seine Statuswerte stark."
+    "effect": "Der Anwender macht sich durch Z-Kraft die Stärke seiner Weiterentwicklungen zunutze und erhöht seine Statuswerte stark."
   },
   "genesisSupernova": {
     "name": "Supernova des Ursprungs",
@@ -2917,15 +2917,15 @@
   },
   "splishySplash": {
     "name": "Plätschersurfer",
-    "effect": "Pikachu greift das Ziel mit einer großen, elektrisch aufgeladenen Welle an. Das Ziel wird eventuell paralysiert."
+    "effect": "Der Anwender greift das Ziel mit einer großen, elektrisch aufgeladenen Welle an. Das Ziel wird eventuell paralysiert."
   },
   "floatyFall": {
     "name": "Schwebesturz",
-    "effect": "Pikachu schwebt nach oben und stürzt dann unvermittelt auf das Ziel herab. Das Ziel schreckt eventuell zurück."
+    "effect": "Der Anwender schwebt nach oben und stürzt dann unvermittelt auf das Ziel herab. Das Ziel schreckt eventuell zurück."
   },
   "pikaPapow": {
     "name": "Pika-Flash",
-    "effect": "Je größer Pikachus Vertrauen zu seinem Trainer ist, desto stärker fällt dieser Angriff aus. Diese Attacke trifft immer."
+    "effect": "Je größer das Vertrauen des Anwenders zu seinem Trainer ist, desto stärker fällt dieser Angriff aus. Diese Attacke trifft immer."
   },
   "bouncyBubble": {
     "name": "Blubbsauger",
@@ -2933,35 +2933,35 @@
   },
   "buzzyBuzz": {
     "name": "Knisterladung",
-    "effect": "Evoli greift das Ziel mit Elektrizität an, wodurch dieses paralysiert wird."
+    "effect": "Der Anwender greift das Ziel mit Elektrizität an, wodurch dieses paralysiert wird."
   },
   "sizzlySlide": {
     "name": "Flackerbrand",
-    "effect": "Evoli hüllt sich in Flammen und stürzt sich beherzt auf das Ziel, welches dadurch Verbrennungen erleidet."
+    "effect": "Der Anwender hüllt sich in Flammen und stürzt sich beherzt auf das Ziel, welches dadurch Verbrennungen erleidet."
   },
   "glitzyGlow": {
     "name": "Pulsieraura",
-    "effect": "Evoli greift das Ziel gnadenlos mit telekinetischer Energie an. Dabei wird eine geheimnisvolle Wand erzeugt, die Spezial-Attacken des Ziels abschwächt."
+    "effect": "Der Anwender greift das Ziel gnadenlos mit telekinetischer Energie an. Dabei wird eine geheimnisvolle Wand erzeugt, die Spezial-Attacken des Ziels abschwächt."
   },
   "baddyBad": {
     "name": "Quälzone",
-    "effect": "Evoli zeigt sich von seiner dunklen Seite und greift an. Dabei wird eine geheimnisvolle Wand erzeugt, die physische Attacken des Ziels abschwächt."
+    "effect": "Der Anwender zeigt sich von seiner dunklen Seite und greift an. Dabei wird eine geheimnisvolle Wand erzeugt, die physische Attacken des Ziels abschwächt."
   },
   "sappySeed": {
     "name": "Sprießbomben",
-    "effect": "Evoli lässt eine riesige Ranke wachsen, von der Samen herabfallen, die dem Ziel schaden und ihm in jeder Runde KP absaugen."
+    "effect": "Der Anwender lässt eine riesige Ranke wachsen, von der Samen herabfallen, die dem Ziel schaden und ihm in jeder Runde KP absaugen."
   },
   "freezyFrost": {
     "name": "Klirrfrost",
-    "effect": "Evoli greift mit einem schwarzen Kristall aus gefrorenem Nebel an. Die Statusveränderungen aller am Kampf beteiligten Pokémon werden zurückgesetzt."
+    "effect": "Der Anwender greift mit einem schwarzen Kristall aus gefrorenem Nebel an. Die Statusveränderungen aller am Kampf beteiligten Pokémon werden zurückgesetzt."
   },
   "sparklySwirl": {
     "name": "Glitzersturm",
-    "effect": "Evoli greift an, indem es das Ziel in einen nahezu erstickend wohlriechenden Wirbelwind hüllt. Das Team des Anwenders wird von Statusproblemen geheilt."
+    "effect": "Der Anwender greift an, indem es das Ziel in einen nahezu erstickend wohlriechenden Wirbelwind hüllt. Das Team des Anwenders wird von Statusproblemen geheilt."
   },
   "veeveeVolley": {
     "name": "Evo-Crash",
-    "effect": "Je größer Evolis Vertrauen zu seinem Trainer ist, desto stärker fällt dieser Angriff aus. Diese Attacke trifft immer."
+    "effect": "Je größer das Vertrauen des Pokémon zu seinem Trainer ist, desto stärker fällt dieser Angriff aus. Diese Attacke trifft immer."
   },
   "doubleIronBash": {
     "name": "Panzerfäuste",

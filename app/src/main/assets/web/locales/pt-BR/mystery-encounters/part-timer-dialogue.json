@@ -5,7 +5,7 @@
   "title": "Trabalho Temporário",
   "description": "Parece que há muitas tarefas que precisam ser feitas. Dependendo de quão bem o seu Pokémon se adapta a uma tarefa, ele pode ganhar mais ou menos dinheiro.",
   "query": "Qual trabalho você vai escolher?",
-  "invalid_selection": "O Pokémon precisa estar saudável o suficiente.",
+  "invalid_selection": "Esse Pokémon não pode trabalhar!",
   "option": {
     "1": {
       "label": "Fazer Entregas",

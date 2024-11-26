@@ -1,0 +1,17 @@
+{
+  "egg": "Yumurta",
+  "greatTier": "Nadir",
+  "ultraTier": "Epik",
+  "masterTier": "Efsanevi",
+  "defaultTier": "Yaygın",
+  "hatchWavesMessageSoon": "İçeriden sesler duyulabiliyor! Yakında yumurtadan çıkacak!",
+  "hatchWavesMessageClose": "Arada bir haraket ediyor. Çıkmaya yakın olabilir.",
+  "hatchWavesMessageNotClose": "Ne olabilir ki? Çıkmaya yakın değil.",
+  "hatchWavesMessageLongTime": "Yumurtadan uzum zaman sürecek çıkması için.",
+  "selectMachine": "Makine seç.",
+  "notEnoughVouchers": "Lazım olan bilet yok!",
+  "tooManyEggs": "Sizde çok yumurta var!",
+  "pull": "Çek",
+  "sameSpeciesEgg": "Bu yumurtadan {{species}} çıkar!",
+  "hatchFromTheEgg": "Yumurtadan {{pokemonName}} çıkdı!"
+}

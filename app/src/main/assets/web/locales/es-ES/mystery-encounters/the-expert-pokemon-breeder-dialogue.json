@@ -1,0 +1,31 @@
+{
+  "intro": "¡Es un entrenador que lleva montones de Huevos Pokémon!",
+  "intro_dialogue": "¡Hola, entrenador!$Parece que algunos de tus\nPokémon compañeros se sienten un poco deprimidos.$¿Por qué no tienes una batalla conmigo para animarlos?",
+  "title": "La CriaPokémon Experta",
+  "description": "¡Te han desafiado a una batalla donde @[TOOLTIP_TITLE]{solo puedes usar un Pokémon}. Puede ser difícil, pero seguramente profundizará el vínculo que tienes con el Pokémon que elijas!\n¡La CriaPokémon también te dará algunos @[TOOLTIP_TITLE]{Huevos Pokémon} si ganas!",
+  "query": "¿Con qué Pokémon lucharas?",
+  "cleffa_1_nickname": "Ace",
+  "cleffa_2_nickname": "Clefantástico",
+  "cleffa_3_nickname": "{{speciesName}} el Grande",
+  "option": {
+    "1": {
+      "label": "{{pokemon1Name}}",
+      "tooltip_base": "(-) Batalla Dura\n(+) Gana amistad con {{pokemon1Name}}"
+    },
+    "2": {
+      "label": "{{pokemon2Name}}",
+      "tooltip_base": "(-) Batalla Dura\n(+) Gana amistad con {{pokemon2Name}}"
+    },
+    "3": {
+      "label": "{{pokemon3Name}}",
+      "tooltip_base": "(-) Batalla Dura\n(+) Gana amistad con {{pokemon3Name}}"
+    },
+    "selected": "¡Vamos!"
+  },
+  "outro": "¡Mira lo feliz que está tu {{chosenPokemon}} ahora!$Toma, también puedes tener esto.",
+  "outro_failed": "Qué decepcionante...$¡Parece que aún te queda un largo camino\npor delante para ganarte la confianza de tu Pokémon!",
+  "gained_eggs": "@s{item_fanfare}¡Recibiste {{numEggs}}!",
+  "eggs_tooltip": "\n(+) Obtén {{eggs}}",
+  "numEggs_one": "{{count}} Huevo {{rarity}}",
+  "numEggs_other": "{{count}} Huevos {{rarity}}"
+}

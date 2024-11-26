@@ -3,7 +3,7 @@
   "title": "Traningssitzung",
   "description": "Diese Vorräte sehen so aus, als könnten sie verwendet werden, um ein Mitglied deines Teams zu trainieren! Es gibt ein paar Möglichkeiten, wie du dein Pokémon trainieren könntest, indem du gegen es mit dem Rest deines Teams @[TOOLTIP_TITLE]{kämpfst und es besiegst}.",
   "query": "Wie möchtest du trainieren?",
-  "invalid_selection": "Pokémon muss genügend KP haben.",
+  "invalid_selection": "Pokémon muss kann nicht kämpfen!",
   "option": {
     "1": {
       "label": "Leichtes Training",

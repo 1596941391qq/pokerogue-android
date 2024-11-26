@@ -73,5 +73,6 @@
   "substituteNotEnoughHp": "但是，体力已经不够\n放出替身了！",
   "afterYou": "{{targetName}}\n接受了对手的好意！",
   "combiningPledge": "两个招式合二为一！\n这是合体招式！！",
-  "awaitingPledge": "{{userPokemonName}}正在等待\n{{allyPokemonName}}……"
+  "awaitingPledge": "{{userPokemonName}}正在等待\n{{allyPokemonName}}……",
+  "corrosiveGasItem": "{{pokemonName}}把{{targetName}}的{{itemName}}融化了！"
 }

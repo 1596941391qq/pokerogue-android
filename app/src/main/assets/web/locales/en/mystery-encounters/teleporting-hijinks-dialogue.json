@@ -1,6 +1,6 @@
 {
   "intro": "It's a strange machine, whirring noisily...",
-  "title": "Teleportating Hijinks",
+  "title": "Teleporting Hijinks",
   "description": "The machine has a sign on it that reads:\n  \"To use, insert money then step into the capsule.\"\n\nPerhaps it can transport you somewhere...",
   "query": "What will you do?",
   "option": {

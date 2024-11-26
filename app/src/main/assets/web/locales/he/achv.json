@@ -1,0 +1,74 @@
+{
+  "Achievements": {
+    "name": "הישגים"
+  },
+  "Locked": {
+    "name": "נעול"
+  },
+  "MoneyAchv": {
+    "description": "לצבור בסך הכול כ-{{moneyAmount}}₽"
+  },
+  "10K_MONEY": {
+    "name": "בעל ממון",
+    "name_female": "בעלת ממון"
+  },
+  "100K_MONEY": {
+    "name": "עשיר",
+    "name_female": "עשירה"
+  },
+  "1M_MONEY": {
+    "name": "מיליונר",
+    "name_female": "מיליונרית"
+  },
+  "10M_MONEY": {
+    "name": "האחוזון העליון",
+    "name_female": "האחוזון העליון"
+  },
+  "DamageAchv": {
+    "description": "להסב {{HP}} {{damageAmount}} של נזק במהלך אחד"
+  },
+  "250_DMG": {
+    "name": "אאוץ׳"
+  },
+  "1000_DMG": {
+    "name": "פוצע בינוני",
+    "name_female": "פוצעת בינוני"
+  },
+  "2500_DMG": {
+    "name": "איזה עוף? עוף אגרוף!",
+    "name_female": "אברהם, יצחק, יעקב, שרה, סטירה!"
+  },
+  "10000_DMG": {
+    "name": "מכת בכורות",
+    "name_female": "אסתר המכה"
+  },
+  "HealAchv": {
+    "description": "להחזיר {{HP}} {{healAmount}} בבת אחת באמצעות מהלך, יכולת או פריט"
+  },
+  "MONO_GEN_TWO": {
+    "name": "פעמיים כי טוב"
+  },
+  "MONO_GEN_THREE": {
+    "name": "יותר מדי מים?"
+  },
+  "MONO_GEN_FOUR": {
+    "name": "היא לא *כזאת* קשה..."
+  },
+  "MONO_GEN_SIX": {
+    "name": "כמעט מלכות"
+  },
+  "MONO_GEN_NINE": {
+    "description": "להביס את האתגר של דור 9 בלבד."
+  },
+  "MonoType": {
+    "description": "להביס את אתגר סוג ה{{type}} בלבד."
+  },
+  "INVERSE_BATTLE": {
+    "name": "הפוך גוטה, הפוך!",
+    "description": ".ךופהה ברקה רגתא תא חצנל"
+  },
+  "BREEDERS_IN_SPACE": {
+    "name": "מגדלים בחלל!",
+    "description": "להביס את מגדל הפוקימונים המומחה בביומת החלל."
+  }
+}

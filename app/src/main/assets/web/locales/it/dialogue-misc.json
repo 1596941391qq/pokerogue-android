@@ -1,1 +1,6 @@
-{}
+{
+  "ending": "@c{shock}Sei tornato?@d{32} Significa che…@d{96} hai vinto?!\n@c{smile_ehalf}Sapevo che ce l'avresti fatta.\n$@c{smile_eclosed}Proprio così… l'ho sempre saputo.\n@c{smile}Beh, è finita ora, giusto? Hai interrotto il ciclo.\n$@c{smile_ehalf}I tuoi sogni sono divenuti realtà, dico bene?\nNon hai perso nemmeno una volta.\n$Sarò l'unica che potrà ricordarselo.\n@c{angry_mopen}E proverò a non dimenticarmene!\n$@c{smile_wave_wink}Scherzo!@d{64} @c{smile}Non lo dimenticherei mai.@d{32}\nLa tua leggenda vivrà nei nostri cuori.\n$@c{smile_wave}Ad ogni modo,@d{64} si sta facendo tardi…@d{96} credo?\nNon si capisce bene, quaggiù.\n$Andiamo a casa. @c{smile_wave_wink}Magari, domani combattiamo un po', come ai vecchi tempi?",
+  "ending_female": "@c{smile}Oh? Hai vinto?@d{96} @c{smile_eclosed}C'era da aspettarselo.\nBeh, eccoti qua.\n$@c{smile}Ora è finita.@d{64} Hai chiuso il ciclo.\n$@c{serious_smile_fists}I tuoi sogni sono divenuti realtà, dico bene?\nNon hai perso nemmeno una volta.\n$@c{neutral}Sarò l'unico a ricordarmi cosa hai fatto.@d{96}\nIn fondo, che problema c'è?\n$@c{serious_smile_fists}La tua leggenda vivrà nei nostri cuori.\n$@c{smile_eclosed}Comunque, questo posto mi ha stufato, a te no? Torniamo a casa.\n$@c{serious_smile_fists}Una volta lì, potrò avere la mia rivincita?\nSempre se ti va, sia chiaro.\n\n",
+  "ending_endless": "Congratulazioni per aver raggiunto l'attuale limite!\nMaggiori contenuti in arrivo.",
+  "ending_name": "Sviluppatori"
+}

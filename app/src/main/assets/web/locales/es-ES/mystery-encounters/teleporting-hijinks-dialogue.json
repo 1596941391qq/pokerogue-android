@@ -1,0 +1,27 @@
+{
+  "intro": "Es una máquina extraña, zumbando ruidosamente...",
+  "title": "Teletransporte en Demanda",
+  "description": "La máquina tiene un letrero que dice:\n  \"Para usar, inserte dinero y luego entre en la cápsula.\"\n\nQuizás pueda transportarte a algún lugar...",
+  "query": "¿Qué harás?",
+  "option": {
+    "1": {
+      "label": "Meter dinero dentro",
+      "tooltip": "(-) Pagar {{price, money}}\n(?) Teletransportarse a un nuevo bioma",
+      "selected": "Insertas algo de dinero y la cápsula se abre.\nEntras dentro y..."
+    },
+    "2": {
+      "label": "Un Pokémon ayuda",
+      "tooltip": "(-) {{option2PrimaryName}} Ayuda\n(+) {{option2PrimaryName}} gana EXP\n(?) Teletranspórtate a un nuevo bioma",
+      "disabled_tooltip": "Necesitas un Pokémon de tipo Acero o Eléctrico para elegir esto",
+      "selected": "¡El tipo de {{option2PrimaryName}} le permite eludir el muro de pago de la máquina!$La cápsula se abre y entras..."
+    },
+    "3": {
+      "label": "Inspeccionar la máquina",
+      "tooltip": "(-) Combate Pokémon",
+      "selected": "Te atraen las luces parpadeantes\ny los ruidos extraños que provienen de la máquina...$¡Ni siquiera te das cuenta cuando\nun Pokémon salvaje se acerca sigilosamente y te embosca!"
+    }
+  },
+  "transport": "La máquina tiembla violentamente,\nhaciendo todo tipo de ruidos extraños!$Tan pronto como había comenzado, se calma una vez más.",
+  "attacked": "Sales a un área completamente nueva, ¡sorprendiendo a un Pokémon salvaje!$¡El Pokémon salvaje ataca!",
+  "boss_enraged": "¡El {{enemyPokemon}} oponente se ha enfurecido!"
+}

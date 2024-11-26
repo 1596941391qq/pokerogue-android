@@ -73,5 +73,6 @@
   "substituteNotEnoughHp": "しかし　身代わりを　出すには　体力が　足りなかった！",
   "afterYou": "{{targetName}}は\nお言葉に　甘えることにした！",
   "combiningPledge": "２つの技が　１つになった！\nコンビネーション技だ！！",
-  "awaitingPledge": "{{userPokemonName}}は\n{{allyPokemonName}}を　待っている…"
+  "awaitingPledge": "{{userPokemonName}}は\n{{allyPokemonName}}を　待っている…",
+  "corrosiveGasItem": "{{pokemonName}}は　{{targetName}}の\n{{itemName}}を　とかした！"
 }

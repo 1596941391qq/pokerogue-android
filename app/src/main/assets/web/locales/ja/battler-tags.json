@@ -18,7 +18,7 @@
   "confusedLapseHurtItself": "わけも　わからず　自分を　攻撃した！",
   "destinyBondLapseIsBoss": "{{pokemonNameWithAffix}}を　みちづれに　できない！",
   "destinyBondLapse": "{{pokemonNameWithAffix}}は　相手を　みちづれに　した！",
-  "infatuatedOnAdd": "{{pokemonNameWithAffix}}は　{{sourcePokemonName}}に　メロメロに　なった!",
+  "infatuatedOnAdd": "{{pokemonNameWithAffix}}は　{{sourcePokemonName}}に　メロメロに　なった！",
   "infatuatedOnOverlap": "{{pokemonNameWithAffix}}は　すでに　メロメロだ!",
   "infatuatedLapse": "{{pokemonNameWithAffix}}は　{{sourcePokemonName}}に　メロメロだ!",
   "infatuatedLapseImmobilize": "{{pokemonNameWithAffix}}は　メロメロで　技が出せなかった！",
@@ -82,5 +82,10 @@
   "syrupBombOnAdd": "{{pokemonNameWithAffix}}は　あめまみれに　なった！",
   "syrupBombLapse": "{{pokemonNameWithAffix}}は　あめまみれで　素早さが　下がった！",
   "telekinesisOnAdd": "{{pokemonNameWithAffix}}を　宙に　浮かせた！",
-  "electrifiedOnAdd": "{{pokemonNameWithAffix}}は　そうでんで　技が　でんきタイプに　なった！"
+  "electrifiedOnAdd": "{{pokemonNameWithAffix}}は　そうでんで　技が　でんきタイプに　なった！",
+  "powerTrickActive": "{{pokemonNameWithAffix}}は\n攻撃と　防御を　入れ替えた！",
+  "powderOnAdd": "{{pokemonNameWithAffix}}に\nふんじんを　あびせた！",
+  "powderLapse": "{{pokemonNameWithAffix}}に　反応して\nふんじんが　爆発した！",
+  "grudgeOnAdd": "{{pokemonNameWithAffix}}は　相手に\nおんねんを　かけようとしている！",
+  "grudgeLapse": "{{pokemonNameWithAffix}}の　{{moveName}}は\nおんねんで　ＰＰが　０になった！"
 }

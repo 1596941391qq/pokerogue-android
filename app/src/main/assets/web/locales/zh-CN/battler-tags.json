@@ -82,5 +82,10 @@
   "syrupBombOnAdd": "{{pokemonNameWithAffix}}陷入了\n满身糖状态！",
   "syrupBombLapse": "满身糖让{{pokemonNameWithAffix}}\n变慢了！",
   "telekinesisOnAdd": "{{pokemonNameWithAffix}}浮在了空中！",
-  "electrifiedOnAdd": "{{pokemonNameWithAffix}}的招式变成了电属性！"
+  "electrifiedOnAdd": "{{pokemonNameWithAffix}}的招式变成了电属性！",
+  "powerTrickActive": "{{pokemonNameWithAffix}} 交换了它的攻击和防御！",
+  "powderOnAdd": "{{pokemonNameWithAffix}} 被粉尘覆盖着！",
+  "powderLapse": "火焰触碰到宝可梦身上的粉尘，引发了爆炸！",
+  "grudgeOnAdd": "{{pokemonNameWithAffix}}想向对手施放怨念！",
+  "grudgeLapse": "因为怨念，{{pokemonNameWithAffix}}失去了{{moveName}}的所有PP！"
 }

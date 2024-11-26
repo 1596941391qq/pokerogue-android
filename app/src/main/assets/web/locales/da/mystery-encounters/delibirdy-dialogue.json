@@ -1,0 +1,27 @@
+{
+  "intro": "En flok af {{delibirdName}} er dukket op!",
+  "title": "Delibir-dy",
+  "description": "De mange {{delibirdName}} ser ventende på dig, som om de vil have noget. Måske en item eller nogle penge vil tilfredsstille dem?",
+  "query": "Hvad vil du give dem?",
+  "invalid_selection": "Pokémon har ikke den slags genstand.",
+  "option": {
+    "1": {
+      "label": "Giv penge",
+      "tooltip": "(-) Giv flokken af {{delibirdName}} {{money, money}}\n(+) Modtag en Gave",
+      "selected": "Du smider pengene til flokken af {{delibirdName}}, som spændt snakker iblandt dem selv.$De vender sig tilbage til dig, og giver dig med glæde en gave!"
+    },
+    "2": {
+      "label": "Giv mad",
+      "tooltip": "(-) Giv flokken af {{delibirdName}} et bær eller Reviver Seed\n(+) Modtag en Gave",
+      "select_prompt": "Vælg en genstand at give.",
+      "selected": "Du smider din {{chosenItem}} til flokken af {{delibirdName}}, som spændt snakker iblandt dem selv.$De vender sig tilbage til dig, og giver dig med glæde en gave!"
+    },
+    "3": {
+      "label": "Giv en genstand",
+      "tooltip": "(-) Give flokken af {{delibirdName}} en holdt genstand\n(+) Modtag en Gave",
+      "select_prompt": "Vælg en genstand at give.",
+      "selected": "Du smider din {{chosenItem}} til flokken af {{delibirdName}}, som spændt snakker iblandt dem selv.$De vender sig tilbage til dig, og giver dig med glæde en gave!"
+    }
+  },
+  "outro": "{{delibirdName}} flokken vralter glade afstad.$Sikken en sjov lille udveksling!"
+}

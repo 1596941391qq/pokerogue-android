@@ -1,3 +1,8 @@
 {
-  "password": "Adgangskode"
+  "cancel": "Annuller",
+  "continue": "Fortsæt",
+  "newGame": "Nyt spil",
+  "settings": "Indstillinger",
+  "yes": "Ja",
+  "no": "Nej"
 }

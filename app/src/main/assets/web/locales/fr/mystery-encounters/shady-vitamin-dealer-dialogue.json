@@ -5,7 +5,7 @@
   "title": "Le Dealer d’accélérateurs",
   "description": "L’homme ouvre son manteau et vous laisse apercevoir des accélérateurs pour Pokémon. Le tarif qu’il annonce semble être une bonne affaire. Peut-être même un peu trop belle…\nIl vous laisse le choix entre deux offres.",
   "query": "Laquelle choisissez-vous ?",
-  "invalid_selection": "Le Pokémon doit être en bonne santé.",
+  "invalid_selection": "Ce Pokémon ne peut pas en recevoir !",
   "option": {
     "1": {
       "label": "Offre douteuse",

@@ -3,7 +3,7 @@
   "intro_dialogue": "Hey, trainer! I'm on a mission to find the rarest Bug Pokémon in existence!$You must love Bug Pokémon too, right?\nEveryone loves Bug Pokémon!",
   "title": "The Bug-Type Superfan",
   "speaker": "Bug-Type Superfan",
-  "description": "The trainer prattles, not even waiting for a response...\n\nIt seems the only way to get out of this situation is by catching the trainer's attention!",
+  "description": "The trainer prattles on, not even waiting for a response...\n\nIt seems the only way to get out of this situation is by catching the trainer's attention!",
   "query": "What will you do?",
   "option": {
     "1": {

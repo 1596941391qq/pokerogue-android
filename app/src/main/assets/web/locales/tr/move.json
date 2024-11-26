@@ -1,0 +1,1031 @@
+{
+  "pound": {
+    "name": "Vur"
+  },
+  "karateChop": {
+    "name": "Karate Biçişi"
+  },
+  "doubleSlap": {
+    "name": "Çift Tokat"
+  },
+  "firePunch": {
+    "name": "Ateş Yumruğu"
+  },
+  "icePunch": {
+    "name": "Buz Yumruğu"
+  },
+  "thunderPunch": {
+    "name": "Gök Gürültüsü Yumruğu"
+  },
+  "scratch": {
+    "name": "Tırmala"
+  },
+  "viseGrip": {
+    "name": "Mengene Tutuşu"
+  },
+  "cut": {
+    "name": "Kesme"
+  },
+  "gust": {
+    "name": "Kasırga"
+  },
+  "wingAttack": {
+    "name": "Kanat Saldırısı"
+  },
+  "fly": {
+    "name": "Uç"
+  },
+  "slam": {
+    "name": "Çarp"
+  },
+  "vineWhip": {
+    "name": "Asma Kamçısı"
+  },
+  "stomp": {
+    "name": "Ezme"
+  },
+  "doubleKick": {
+    "name": "Çifte Tekme"
+  },
+  "sandAttack": {
+    "name": "Kum Saldırısı"
+  },
+  "headbutt": {
+    "name": "Kafa Darbesi"
+  },
+  "hornAttack": {
+    "name": "Boynuz Saldırısı"
+  },
+  "hornDrill": {
+    "name": "Matkap Boynuz"
+  },
+  "tackle": {
+    "name": "Toslama"
+  },
+  "bodySlam": {
+    "name": "Vücut Çarpması"
+  },
+  "wrap": {
+    "name": "Yakalama"
+  },
+  "takeDown": {
+    "name": "Yere İndirme"
+  },
+  "poisonSting": {
+    "name": "Zehirli İğne"
+  },
+  "twineedle": {
+    "name": "İkiz İğne"
+  },
+  "bite": {
+    "name": "Isırma"
+  },
+  "acid": {
+    "name": "Asit"
+  },
+  "ember": {
+    "name": "Köz"
+  },
+  "flamethrower": {
+    "name": "Alev Püskürtücü"
+  },
+  "waterGun": {
+    "name": "Su Tabancası"
+  },
+  "hydroPump": {
+    "name": "Su Pompası"
+  },
+  "surf": {
+    "name": "Sörf"
+  },
+  "iceBeam": {
+    "name": "Buz Işını"
+  },
+  "blizzard": {
+    "name": "Tipi"
+  },
+  "psybeam": {
+    "name": "Psişik Işın"
+  },
+  "bubbleBeam": {
+    "name": "Baloncuk Işını"
+  },
+  "auroraBeam": {
+    "name": "Aurora Işını"
+  },
+  "hyperBeam": {
+    "name": "Hiper Işın"
+  },
+  "peck": {
+    "name": "Gagalama"
+  },
+  "drillPeck": {
+    "name": "Matkap Gaga"
+  },
+  "submission": {
+    "name": "Teslimiyet"
+  },
+  "lowKick": {
+    "name": "Alçak Tekme"
+  },
+  "counter": {
+    "name": "Karşılık"
+  },
+  "absorb": {
+    "name": "Absorbe Etme"
+  },
+  "megaDrain": {
+    "name": "Mega Emiş"
+  },
+  "razorLeaf": {
+    "name": "Jilet Yaprak"
+  },
+  "solarBeam": {
+    "name": "Güneş Işını"
+  },
+  "fireSpin": {
+    "name": "Ateş Dönüşü"
+  },
+  "thunderShock": {
+    "name": "Gök Gürültüsü Şoku"
+  },
+  "thunderbolt": {
+    "name": "Yıldırım"
+  },
+  "thunder": {
+    "name": "Gök Gürültüsü"
+  },
+  "rockThrow": {
+    "name": "Kaya Atışı"
+  },
+  "earthquake": {
+    "name": "Deprem"
+  },
+  "fissure": {
+    "name": "Çatlak"
+  },
+  "dig": {
+    "name": "Kazı"
+  },
+  "confusion": {
+    "name": "Kafa Karışıklığı"
+  },
+  "psychic": {
+    "name": "Psişik"
+  },
+  "quickAttack": {
+    "name": "Tez Saldırı"
+  },
+  "nightShade": {
+    "name": "Gece Gölgesi"
+  },
+  "lick": {
+    "name": "Yala"
+  },
+  "smog": {
+    "name": "Duman"
+  },
+  "sludge": {
+    "name": "Balçık"
+  },
+  "boneClub": {
+    "name": "Kemik Sopa"
+  },
+  "fireBlast": {
+    "name": "Ateş Patlaması"
+  },
+  "waterfall": {
+    "name": "Şelale"
+  },
+  "swift": {
+    "name": "Yıldız Işını"
+  },
+  "skullBash": {
+    "name": "Kafatası Darbesi"
+  },
+  "highJumpKick": {
+    "name": "Yüksek Sıçrama Tekmesi"
+  },
+  "leechLife": {
+    "name": "Hayat Emme"
+  },
+  "skyAttack": {
+    "name": "Gökyüzü Saldırısı"
+  },
+  "transform": {
+    "name": "Dönüşüm"
+  },
+  "bubble": {
+    "name": "Baloncuk"
+  },
+  "psywave": {
+    "name": "Psişik Dalga"
+  },
+  "splash": {
+    "name": "Su Sıçratma"
+  },
+  "crabhammer": {
+    "name": "Yengeç Çekici"
+  },
+  "rest": {
+    "name": "Dinlen"
+  },
+  "rockSlide": {
+    "name": "Kaya Kayması"
+  },
+  "hyperFang": {
+    "name": "Hiper Diş"
+  },
+  "triAttack": {
+    "name": "Üçlü Saldırı"
+  },
+  "slash": {
+    "name": "Biç"
+  },
+  "struggle": {
+    "name": "Mücadele"
+  },
+  "flameWheel": {
+    "name": "Alev Çemberi"
+  },
+  "aeroblast": {
+    "name": "Hava Darbesi"
+  },
+  "powderSnow": {
+    "name": "Toz Kar"
+  },
+  "feintAttack": {
+    "name": "Sinsi Saldırı"
+  },
+  "sludgeBomb": {
+    "name": "Balçık Bombası"
+  },
+  "mudSlap": {
+    "name": "Çamur Tokadı"
+  },
+  "octazooka": {
+    "name": "Oktazuka"
+  },
+  "zapCannon": {
+    "name": "Elektrik Topu"
+  },
+  "icyWind": {
+    "name": "Buzlu Rüzgâr"
+  },
+  "lockOn": {
+    "name": "Kilitlen"
+  },
+  "outrage": {
+    "name": "Öfke Krizi"
+  },
+  "gigaDrain": {
+    "name": "Giga Emiş"
+  },
+  "charm": {
+    "name": "Çekici"
+  },
+  "rollout": {
+    "name": "Yuvarlanma"
+  },
+  "spark": {
+    "name": "Kıvılcım"
+  },
+  "furyCutter": {
+    "name": "Öfkeli Kesme"
+  },
+  "steelWing": {
+    "name": "Çelik Kanat"
+  },
+  "return": {
+    "name": "İyiliğin Karşılığı"
+  },
+  "present": {
+    "name": "Hediye"
+  },
+  "frustration": {
+    "name": "Asabiyet"
+  },
+  "sacredFire": {
+    "name": "Kutsal Ateş"
+  },
+  "dynamicPunch": {
+    "name": "Dinamik Yumruk"
+  },
+  "megahorn": {
+    "name": "Mega Boynuz"
+  },
+  "dragonBreath": {
+    "name": "Ejderha Nefesi"
+  },
+  "ironTail": {
+    "name": "Demir Kuyruk"
+  },
+  "metalClaw": {
+    "name": "Metal Pençe"
+  },
+  "hiddenPower": {
+    "name": "Saklı Güç"
+  },
+  "crossChop": {
+    "name": "Çapraz Kesme"
+  },
+  "twister": {
+    "name": "Burgaç"
+  },
+  "crunch": {
+    "name": "Çiğne"
+  },
+  "mirrorCoat": {
+    "name": "Ayna Kalkan"
+  },
+  "ancientPower": {
+    "name": "Antik Güç"
+  },
+  "shadowBall": {
+    "name": "Gölge Topu"
+  },
+  "futureSight": {
+    "name": "Gelecek Görüşü"
+  },
+  "rockSmash": {
+    "name": "Kaya Darbesi"
+  },
+  "heatWave": {
+    "name": "Isı Dalgası"
+  },
+  "superpower": {
+    "name": "Süper Güç"
+  },
+  "brickBreak": {
+    "name": "Tuğla Kırma"
+  },
+  "yawn": {
+    "name": "Esneme"
+  },
+  "lusterPurge": {
+    "name": "Arındıran Işık"
+  },
+  "mistBall": {
+    "name": "Sis Topu"
+  },
+  "featherDance": {
+    "name": "Tüy Dansı"
+  },
+  "blazeKick": {
+    "name": "Alev Tekmesi"
+  },
+  "poisonFang": {
+    "name": "Zehirli Diş"
+  },
+  "crushClaw": {
+    "name": "Parçalayan Pençe"
+  },
+  "blastBurn": {
+    "name": "Tahrip Yanığı"
+  },
+  "hydroCannon": {
+    "name": "Su Topu"
+  },
+  "meteorMash": {
+    "name": "Meteor Darbesi"
+  },
+  "astonish": {
+    "name": "Şaşırtmaca"
+  },
+  "weatherBall": {
+    "name": "Hava Durumu Topu"
+  },
+  "airCutter": {
+    "name": "Hava Bıçağı"
+  },
+  "overheat": {
+    "name": "Aşırı Isınma"
+  },
+  "rockTomb": {
+    "name": "Kaya Mezar"
+  },
+  "silverWind": {
+    "name": "Gümüş Rüzgâr"
+  },
+  "metalSound": {
+    "name": "Metal Sesi"
+  },
+  "signalBeam": {
+    "name": "Sinyal Işını"
+  },
+  "shadowPunch": {
+    "name": "Gölge Yumruğu"
+  },
+  "extrasensory": {
+    "name": "Algı Ötesi"
+  },
+  "sandTomb": {
+    "name": "Kum Mezar"
+  },
+  "muddyWater": {
+    "name": "Çamurlu Su"
+  },
+  "bulletSeed": {
+    "name": "Mermi Tohumu"
+  },
+  "aerialAce": {
+    "name": "Havaların Hakimi"
+  },
+  "icicleSpear": {
+    "name": "Buzul Mızrak"
+  },
+  "dragonClaw": {
+    "name": "Ejderha Pençesi"
+  },
+  "frenzyPlant": {
+    "name": "Çılgın Bitki"
+  },
+  "mudShot": {
+    "name": "Çamur Atışı"
+  },
+  "voltTackle": {
+    "name": "Volt Vuruşu"
+  },
+  "magicalLeaf": {
+    "name": "Büyülü Yaprak"
+  },
+  "leafBlade": {
+    "name": "Yaprak Bıçağı"
+  },
+  "rockBlast": {
+    "name": "Kaya Yağmuru"
+  },
+  "waterPulse": {
+    "name": "Su Vuruşu"
+  },
+  "doomDesire": {
+    "name": "Kıyamet Arzusu"
+  },
+  "psychoBoost": {
+    "name": "Psişik Yükleme"
+  },
+  "gyroBall": {
+    "name": "Jiro Top"
+  },
+  "brine": {
+    "name": "Tuzlu Su Püskürtme"
+  },
+  "closeCombat": {
+    "name": "Yakın Dövüş"
+  },
+  "payback": {
+    "name": "Ödeşme"
+  },
+  "lastResort": {
+    "name": "Son Çare"
+  },
+  "suckerPunch": {
+    "name": "Ani Yumruk"
+  },
+  "forcePalm": {
+    "name": "Güçlü Avuç"
+  },
+  "auraSphere": {
+    "name": "Aura Küresi"
+  },
+  "poisonJab": {
+    "name": "Zehirli Yumruk"
+  },
+  "darkPulse": {
+    "name": "Karanlık Darbe"
+  },
+  "nightSlash": {
+    "name": "Gece Kesiği"
+  },
+  "aquaTail": {
+    "name": "Su Kuyruğu"
+  },
+  "seedBomb": {
+    "name": "Tohum Bombası"
+  },
+  "airSlash": {
+    "name": "Hava Kesiği"
+  },
+  "xScissor": {
+    "name": "Çapraz Makas"
+  },
+  "bugBuzz": {
+    "name": "Böcek Vızıltısı"
+  },
+  "dragonPulse": {
+    "name": "Ejderha Darbesi"
+  },
+  "powerGem": {
+    "name": "Güç Taşı"
+  },
+  "drainPunch": {
+    "name": "Emici Yumruk"
+  },
+  "focusBlast": {
+    "name": "Odak Darbesi"
+  },
+  "energyBall": {
+    "name": "Enerji Topu"
+  },
+  "braveBird": {
+    "name": "Cesur Kuş"
+  },
+  "earthPower": {
+    "name": "Yeryüzü Gücü"
+  },
+  "gigaImpact": {
+    "name": "Giga Vuruş"
+  },
+  "bulletPunch": {
+    "name": "Kurşun Yumruk"
+  },
+  "avalanche": {
+    "name": "Çığ"
+  },
+  "iceShard": {
+    "name": "Buz Parçası"
+  },
+  "shadowClaw": {
+    "name": "Gölge Pençesi"
+  },
+  "thunderFang": {
+    "name": "Gök Gürültüsü Dişi"
+  },
+  "iceFang": {
+    "name": "Buz Diş"
+  },
+  "fireFang": {
+    "name": "Ateş Diş"
+  },
+  "shadowSneak": {
+    "name": "Gölge Sokulması"
+  },
+  "mudBomb": {
+    "name": "Çamur Bombası"
+  },
+  "psychoCut": {
+    "name": "Psişik Kesik"
+  },
+  "zenHeadbutt": {
+    "name": "Zen Kafa Darbesi"
+  },
+  "mirrorShot": {
+    "name": "Ayna Atışı"
+  },
+  "flashCannon": {
+    "name": "Flaş Topu"
+  },
+  "dracoMeteor": {
+    "name": "Drako Meteor"
+  },
+  "discharge": {
+    "name": "Elektrik Boşalımı"
+  },
+  "leafStorm": {
+    "name": "Yaprak Fırtınası"
+  },
+  "powerWhip": {
+    "name": "Güç Kırbacı"
+  },
+  "rockWrecker": {
+    "name": "Kaya Enkazı"
+  },
+  "crossPoison": {
+    "name": "Çapraz Zehir"
+  },
+  "gunkShot": {
+    "name": "Yapışkan Atış"
+  },
+  "ironHead": {
+    "name": "Demir Kafa"
+  },
+  "magnetBomb": {
+    "name": "Mıknatıs Bombası"
+  },
+  "stoneEdge": {
+    "name": "Taş Kenar"
+  },
+  "grassKnot": {
+    "name": "Çimen Düğümü"
+  },
+  "bugBite": {
+    "name": "Böcek Isırığı"
+  },
+  "chargeBeam": {
+    "name": "Şarj Işını"
+  },
+  "aquaJet": {
+    "name": "Su Jeti"
+  },
+  "roarOfTime": {
+    "name": "Zaman Kükremesi"
+  },
+  "spacialRend": {
+    "name": "Uzamsal Yırtış"
+  },
+  "magmaStorm": {
+    "name": "Magma Fırtınası"
+  },
+  "seedFlare": {
+    "name": "Tohum Meşalesi"
+  },
+  "ominousWind": {
+    "name": "Uğursuz Rüzgâr"
+  },
+  "shadowForce": {
+    "name": "Gölge Gücü"
+  },
+  "psyshock": {
+    "name": "Psikoşok"
+  },
+  "smackDown": {
+    "name": "Yere Yapıştır"
+  },
+  "flameBurst": {
+    "name": "Alev Patlaması"
+  },
+  "sludgeWave": {
+    "name": "Balçık Dalgası"
+  },
+  "heavySlam": {
+    "name": "Ağır Vuruş"
+  },
+  "synchronoise": {
+    "name": "Senkro Gürültü"
+  },
+  "flameCharge": {
+    "name": "Alev Saldırısı"
+  },
+  "lowSweep": {
+    "name": "Yerden Tekme"
+  },
+  "acidSpray": {
+    "name": "Asit Püskürtme"
+  },
+  "foulPlay": {
+    "name": "Hileli Oyun"
+  },
+  "scald": {
+    "name": "Haşlama"
+  },
+  "hex": {
+    "name": "Büyü"
+  },
+  "incinerate": {
+    "name": "Kül Etme"
+  },
+  "acrobatics": {
+    "name": "Acrobatics"
+  },
+  "voltSwitch": {
+    "name": "Volt Değişimi"
+  },
+  "struggleBug": {
+    "name": "Mücadele Böceği"
+  },
+  "bulldoze": {
+    "name": "Buldozer"
+  },
+  "frostBreath": {
+    "name": "Buz Nefes"
+  },
+  "dragonTail": {
+    "name": "Ejderha Kuyruğu"
+  },
+  "wildCharge": {
+    "name": "Yabani Şarj"
+  },
+  "drillRun": {
+    "name": "Matkap Koşusu"
+  },
+  "heartStamp": {
+    "name": "Kalp Damgası"
+  },
+  "sacredSword": {
+    "name": "Kutsal Kılıç"
+  },
+  "razorShell": {
+    "name": "Jilet Kabuk"
+  },
+  "leafTornado": {
+    "name": "Yaprak Hortumu"
+  },
+  "psystrike": {
+    "name": "Psişik Saldırı"
+  },
+  "hurricane": {
+    "name": "Fırtına"
+  },
+  "technoBlast": {
+    "name": "Tekno Patlama"
+  },
+  "glaciate": {
+    "name": "Buzullaşma"
+  },
+  "snarl": {
+    "name": "Gürleme"
+  },
+  "vCreate": {
+    "name": "V Yapıcı"
+  },
+  "fusionFlare": {
+    "name": "Füzyon Alevi"
+  },
+  "fusionBolt": {
+    "name": "Füzyon Yıldırımı"
+  },
+  "flyingPress": {
+    "name": "Uçan Pres"
+  },
+  "fellStinger": {
+    "name": "Bitirici İğne"
+  },
+  "parabolicCharge": {
+    "name": "Parabolik Şarj"
+  },
+  "petalBlizzard": {
+    "name": "Taç Yaprak Fırtınası"
+  },
+  "disarmingVoice": {
+    "name": "Yatıştıran Ses"
+  },
+  "drainingKiss": {
+    "name": "Emici Öpücük"
+  },
+  "playRough": {
+    "name": "Sert Oyun"
+  },
+  "fairyWind": {
+    "name": "Peri Rüzgârı"
+  },
+  "moonblast": {
+    "name": "Ay Patlaması"
+  },
+  "boomburst": {
+    "name": "Büyük Patlama"
+  },
+  "hyperspaceHole": {
+    "name": "Hiperuzay Deliği"
+  },
+  "waterShuriken": {
+    "name": "Yağmur Hançeri"
+  },
+  "mysticalFire": {
+    "name": "Mistik Alev"
+  },
+  "geomancy": {
+    "name": "Yer Kontrolü"
+  },
+  "dazzlingGleam": {
+    "name": "Parlak Işın"
+  },
+  "infestation": {
+    "name": "İstila"
+  },
+  "powerUpPunch": {
+    "name": "Güçlendiren Yumruk"
+  },
+  "oblivionWing": {
+    "name": "Yok Edici Kanat"
+  },
+  "originPulse": {
+    "name": "Orijin Darbesi"
+  },
+  "precipiceBlades": {
+    "name": "Uçurum Bıçakları"
+  },
+  "dragonAscent": {
+    "name": "Ejderha Yükselişi"
+  },
+  "hyperspaceFury": {
+    "name": "Hiperuzay Öfkesi"
+  },
+  "spiritShackle": {
+    "name": "Ruh Kelepçesi"
+  },
+  "darkestLariat": {
+    "name": "Zifiri Kement"
+  },
+  "sparklingAria": {
+    "name": "Pırıldayan Arya"
+  },
+  "highHorsepower": {
+    "name": "Yüksek Beygir Gücü"
+  },
+  "leafage": {
+    "name": "Yeşillik"
+  },
+  "lunge": {
+    "name": "Atılım"
+  },
+  "brutalSwing": {
+    "name": "Vahşi Savurma"
+  },
+  "psychicFangs": {
+    "name": "Psişik Dişler"
+  },
+  "shadowBone": {
+    "name": "Gölge Kemik"
+  },
+  "liquidation": {
+    "name": "Sıvılaştırma"
+  },
+  "sunsteelStrike": {
+    "name": "Meteor Çarpması"
+  },
+  "moongeistBeam": {
+    "name": "Hayalet Ay Işını"
+  },
+  "naturesMadness": {
+    "name": "Doğanın Çılgınlığı"
+  },
+  "doubleIronBash": {
+    "name": "Çifte Demir Darbe"
+  },
+  "maxFlare": {
+    "name": "Maksi Alev"
+  },
+  "maxFlutterby": {
+    "name": "Maksi Kanatlılar"
+  },
+  "maxLightning": {
+    "name": "Maksi Şimşek"
+  },
+  "maxStrike": {
+    "name": "Maksi Saldırı"
+  },
+  "maxKnuckle": {
+    "name": "Maksi Yumruk"
+  },
+  "maxPhantasm": {
+    "name": "Maksi Hayalet"
+  },
+  "maxHailstorm": {
+    "name": "Maksi Dolu Fırtınası"
+  },
+  "maxOoze": {
+    "name": "Maksi Balçık"
+  },
+  "maxGeyser": {
+    "name": "Maksi Gayzer"
+  },
+  "maxAirstream": {
+    "name": "Maksi Hava Akımı"
+  },
+  "maxStarfall": {
+    "name": "Maksi Yıldız Yağmuru"
+  },
+  "maxWyrmwind": {
+    "name": "Maksi Ejderha Rüzgârı"
+  },
+  "maxMindstorm": {
+    "name": "Maksi Zihin Fırtınası"
+  },
+  "maxRockfall": {
+    "name": "Maksi Kaya Düşüşü"
+  },
+  "maxQuake": {
+    "name": "Maksi Deprem"
+  },
+  "maxDarkness": {
+    "name": "Maksi Karanlık"
+  },
+  "maxOvergrowth": {
+    "name": "Maksi Büyüme"
+  },
+  "maxSteelspike": {
+    "name": "Maksi Çelikçivi"
+  },
+  "auraWheel": {
+    "name": "Aura Çemberi"
+  },
+  "breakingSwipe": {
+    "name": "Kıran Vuruş"
+  },
+  "obstruct": {
+    "name": "Engelleme"
+  },
+  "meteorBeam": {
+    "name": "Meteor Işını"
+  },
+  "poltergeist": {
+    "name": "Poltergeist"
+  },
+  "tripleAxel": {
+    "name": "Üçlü Axel"
+  },
+  "scorchingSands": {
+    "name": "Kavurucu Kum"
+  },
+  "bleakwindStorm": {
+    "name": "Ayazlayan Fırtına"
+  },
+  "wildboltStorm": {
+    "name": "Yıldırım Hortumu"
+  },
+  "sandsearStorm": {
+    "name": "Yakan Kum Fırtınası"
+  },
+  "gMaxWildfire": {
+    "name": "G-Maksi Yangın"
+  },
+  "gMaxBefuddle": {
+    "name": "G-Maksi Sersemletme"
+  },
+  "gMaxVoltCrash": {
+    "name": "G-Maksi Volt Çarpması"
+  },
+  "gMaxGoldRush": {
+    "name": "G-Maksi Altın Hücumu"
+  },
+  "gMaxChiStrike": {
+    "name": "G-Maksi Çi Saldırısı"
+  },
+  "gMaxTerror": {
+    "name": "G-Maksi Dehşet"
+  },
+  "gMaxResonance": {
+    "name": "G-Maksi Titreşim"
+  },
+  "gMaxCuddle": {
+    "name": "G-Maksi Sarılma"
+  },
+  "gMaxReplenish": {
+    "name": "G-Maksi İyileşme"
+  },
+  "gMaxMalodor": {
+    "name": "G-Maksi Kötü Koku"
+  },
+  "gMaxStonesurge": {
+    "name": "G-Maksi Taş Seli"
+  },
+  "gMaxWindRage": {
+    "name": "G-Maksi Rüzgâr Öfkesi"
+  },
+  "gMaxStunShock": {
+    "name": "G-Maksi Sersemletme Şoku"
+  },
+  "gMaxFinale": {
+    "name": "G-Maksi Final"
+  },
+  "gMaxDepletion": {
+    "name": "G-Maksi Tüketme"
+  },
+  "gMaxGravitas": {
+    "name": "G-Maksi Yer Çekimi"
+  },
+  "gMaxVolcalith": {
+    "name": "G-Maksi Volkanik"
+  },
+  "gMaxSandblast": {
+    "name": "G-Maksi Kum Patlaması"
+  },
+  "gMaxSnooze": {
+    "name": "G-Maksi Uyku"
+  },
+  "gMaxTartness": {
+    "name": "G-Maksi Mayhoşluk"
+  },
+  "gMaxSweetness": {
+    "name": "G-Maksi Tatlılık"
+  },
+  "gMaxSmite": {
+    "name": "G-Maksi Çarpma"
+  },
+  "gMaxSteelsurge": {
+    "name": "G-Maksi Çelik Akımı"
+  },
+  "gMaxMeltdown": {
+    "name": "G-Maksi Diken"
+  },
+  "gMaxFoamBurst": {
+    "name": "G-Maksi Köpük Patlaması"
+  },
+  "gMaxCentiferno": {
+    "name": "G-Maksi Yüz Ateş"
+  },
+  "gMaxVineLash": {
+    "name": "G-Maksi Asma Kırbacı"
+  },
+  "gMaxCannonade": {
+    "name": "G-Maksi Bombardıman"
+  },
+  "gMaxDrumSolo": {
+    "name": "G-Maksi Davul Solosu"
+  },
+  "gMaxFireball": {
+    "name": "G-Maksi Alev Topu"
+  },
+  "gMaxHydrosnipe": {
+    "name": "G-Maksi Su Nişancısı"
+  },
+  "gMaxOneBlow": {
+    "name": "G-Maksi Tek Atış"
+  },
+  "gMaxRapidFlow": {
+    "name": "G-Maksi Akıntı"
+  },
+  "trailblaze": {
+    "name": "Çığır Açma"
+  }
+}

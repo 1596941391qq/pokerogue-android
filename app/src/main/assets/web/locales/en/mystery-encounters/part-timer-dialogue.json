@@ -5,7 +5,7 @@
   "title": "Part-Timer",
   "description": "Looks like there are plenty of tasks that need to be done. Depending how well-suited your Pokémon is to a task, they might earn more or less money.",
   "query": "Which job will you choose?",
-  "invalid_selection": "Pokémon must be healthy enough.",
+  "invalid_selection": "This Pokémon can't work!",
   "option": {
     "1": {
       "label": "Make Deliveries",
